@@ -1,0 +1,1021 @@
+OrderID,OrderDate,CustomerName,Region,Product,Category,Quantity,UnitPrice,Sales,Cost,Profit
+1524,22-06-1991,Patty Perez,East,Smartphone,Electronics,2,3122,6244,1532,4712
+1603,28-08-2000,Tracy House,South,Smartphone,Electronics,2,39071,78142,71047,7095
+1527,19-06-2006,Donald Wright,East,Monitor,Electronics,1,27151,27151,25537,1614
+1032,21-01-1998,Paula Moreno,East,Monitor,Electronics,4,,34416,32590,1826
+1617,26-07-2012,Richard Aguirre,South,Smartphone,Electronics,4,54551,218204,212261,5943
+1586,14-03-2025,Richard Aguirre,East,Bookshelf,Furniture,5,53758,268790,258904,9886
+1445,23-08-1999,Brent Jordan,West,Headphones,Electronics,4,24854,99416,98133,1283
+1733,01-07-1972,Holly Wood,South,Cabinet,Furniture,5,2431,12155,10765,
+1077,06-11-1977,Amy Silva,North,Smartphone,Electronics,2,48312,96624,89567,7057
+1412,05-04-2023,Jessica Holmes,West,Headphones,Electronics,3,45980,137940,130506,7434
+1569,22-12-1999,Justin Baker,North,,Electronics,2,55643,,109802,1484
+1071,31-08-2004,Anthony Rodriguez,South,Bookshelf,Furniture,1,44838,44838,39486,5352
+1676,23-05-1997,Tracy House,South,Laptop,Electronics,3,38041,114123,,4264
+1102,19-05-2005,Amy Silva,East,Cabinet,Furniture,4,29807,119228,116746,2482
+1895,23-12-1985,Nathan Maldonado,East,Cabinet,Furniture,5,47731,238655,231266,7389
+1926,25-05-2016,Dylan Miller,West,Laptop,Electronics,2,25590,51180,49811,1369
+1630,28-08-2000,Nathan Maldonado,South,Office Desk,Furniture,5,1952,9760,1136,8624
+1300,19-01-2011,Jordan Henderson,West,Bookshelf,Furniture,5,52385,261925,259588,2337
+1925,06-07-2008,James Ferrell,West,Headphones,Electronics,4,37055,148220,139131,9089
+1425,12-05-2003,Michael Lewis,South,Monitor,Electronics,5,28009,140045,134352,5693
+1097,03-05-1987,Michael Evans,South,Bookshelf,Furniture,3,21818,65454,57261,8193
+1901,25-02-1976,Christina Walters,North,Office Desk,Furniture,5,32188,160940,160158,782
+1261,26-06-1975,Sarah Moore,South,Headphones,Electronics,5,42014,210070,206548,3522
+1351,18-07-1973,Paula Moreno,East,Smartphone,Electronics,2,7912,15824,8293,7531
+1529,19-12-2016,Michele Williams,West,Office Desk,Furniture,4,2738,10952,8146,2806
+1695,15-12-2009,Connie Lawrence,North,Desk Chair,Furniture,5,32601,163005,155571,7434
+1362,27-07-1983,Whitney Peters,South,Monitor,Electronics,2,20662,41324,36957,4367
+1612,27-06-2011,Dylan Miller,South,Cabinet,Furniture,5,21379,106895,105225,1670
+1885,11-11-1995,Whitney Peters,East,Headphones,Electronics,1,7193,7193,57,7136
+1721,09-08-2015,Matthew Foster,West,Monitor,Electronics,1,36708,36708,35971,737
+1487,10-05-1986,Joshua Blair,West,Smartphone,Electronics,2,56415,112830,102911,9919
+1694,21-02-2009,Lisa Hensley,South,Smartphone,Electronics,4,30925,,118037,5663
+1679,30-09-2006,Brian Rodriguez,East,Cabinet,Furniture,3,8786,26358,20137,6221
+1810,28-03-1998,Gabrielle Davis,West,Bookshelf,Furniture,3,53842,161526,159245,2281
+1409,28-03-1978,Allison Hill,East,Monitor,Electronics,4,50720,202880,201407,1473
+1741,,Philip Cannon,South,Headphones,Electronics,5,4483,22415,13038,9377
+1214,12-08-2001,John Whitehead,East,Bookshelf,Furniture,4,15334,61336,57822,3514
+1590,21-11-1986,Angela Lopez,North,Cabinet,Furniture,5,54890,274450,269360,5090
+1366,27-03-1986,Joshua Blair,South,Monitor,Electronics,2,21340,42680,34706,7974
+1200,16-01-1980,James Ferrell,East,Monitor,Electronics,3,44931,134793,126503,8290
+1637,09-08-1989,Ethan Adams,West,Monitor,Electronics,1,23726,23726,19571,4155
+1629,19-10-1997,Lisa Archer,East,Desk Chair,Furniture,3,39712,119136,115438,3698
+1829,23-07-2007,Shannon Jones,East,Monitor,Electronics,3,16371,49113,44260,4853
+1353,05-04-1985,Ryan Munoz,West,Desk Chair,Furniture,5,57250,286250,279690,6560
+1330,02-06-2001,Amy Silva,South,Smartphone,Electronics,1,40918,40918,37812,3106
+1982,06-07-2008,Lisa Barnes,West,Cabinet,Furniture,4,12671,50684,45535,5149
+1838,29-11-2008,Michele Williams,West,Office Desk,Furniture,4,47424,189696,181355,8341
+1245,11-02-2022,Ryan Munoz,South,Cabinet,Furniture,4,43192,172768,170591,2177
+1287,20-11-1995,Lisa Barnes,North,Headphones,Electronics,4,55346,221384,220100,1284
+1290,09-12-1993,Richard Aguirre,West,Smartphone,Electronics,1,57941,57941,56300,1641
+1599,11-05-1985,Jordan Henderson,East,Cabinet,Furniture,5,58403,292015,290925,1090
+1762,01-12-1978,Lisa Barnes,North,Headphones,Electronics,4,23124,92496,91422,
+1060,12-08-1971,Victoria Garcia,East,Office Desk,Furniture,4,50855,203420,194051,9369
+1623,28-04-1986,Jeffrey Chavez,West,Office Desk,Furniture,4,54978,219912,210567,9345
+1319,07-05-2006,Carol Tucker,East,Cabinet,Furniture,3,18340,,49548,5472
+1011,25-10-1994,Debra Davidson,West,Desk Chair,Furniture,3,13635,40905,32923,7982
+1238,21-04-2002,Whitney Peters,South,Monitor,Electronics,1,39429,39429,32333,7096
+1332,03-06-1973,Michele Williams,East,Smartphone,Electronics,4,7317,29268,22465,6803
+1706,25-04-2005,Aaron Wise,North,Office Desk,Furniture,1,45506,45506,43700,1806
+1087,31-07-2019,Noah Rhodes,South,Monitor,Electronics,4,4963,19852,15230,4622
+1804,14-10-2020,Mike Allen,West,Laptop,Electronics,3,31369,94107,86215,7892
+1175,,Lisa Jackson,East,Headphones,Electronics,4,3344,13376,7837,5539
+1313,07-07-1997,Carol Tucker,East,,Electronics,3,54345,163035,154891,8144
+1463,22-08-2003,Paul Jones,West,Headphones,Electronics,1,21099,21099,11223,9876
+1219,23-01-2001,Jessica Holmes,West,Desk Chair,Furniture,2,4634,9268,8550,718
+1031,18-01-1982,Kelly Donovan,East,Headphones,Electronics,1,39430,39430,30356,9074
+1548,27-07-1990,,South,Smartphone,Electronics,5,11821,59105,58480,625
+1665,07-12-1990,Whitney Peters,South,Smartphone,Electronics,4,9557,38228,35918,2310
+1055,17-10-1993,Amber Kidd,West,Monitor,Electronics,5,55722,278610,274751,3859
+1024,27-03-2012,Lisa Jackson,South,Headphones,Electronics,2,20447,40894,34588,6306
+1257,28-06-1988,Brittney Phillips,North,Monitor,Electronics,3,55921,167763,165824,1939
+1451,25-11-1975,Gerald Hensley,South,Cabinet,Furniture,3,48243,144729,138080,6649
+1004,22-08-2009,Megan Young,North,Cabinet,Furniture,2,46474,92948,86502,6446
+1834,24-11-1991,Michael Evans,West,Cabinet,Furniture,3,3644,10932,6321,4611
+1553,01-09-1988,Jessica Smith,South,Monitor,Electronics,2,7698,15396,11288,4108
+1639,29-03-1989,Allison Hill,East,Office Desk,Furniture,4,23041,92164,86828,5336
+1478,26-02-2005,Dylan Miller,South,Smartphone,Electronics,5,48133,240665,239232,1433
+1957,26-12-2009,Elizabeth Fowler,South,Office Desk,Furniture,5,51358,256790,253468,3322
+1663,17-04-1981,Carla Gray,East,Headphones,Electronics,3,36214,108642,101852,6790
+1519,09-02-1987,Carla Gray,West,Monitor,Electronics,4,47782,191128,187194,3934
+1961,22-12-2016,Angie Henderson,North,Smartphone,Electronics,4,31389,125556,123449,2107
+1954,10-01-1975,Justin Baker,East,Cabinet,Furniture,4,48924,195696,189789,5907
+1980,05-09-1988,Stephen Mckee,South,Monitor,Electronics,1,2247,2247,-1648,3895
+1576,13-06-1974,Stephen Mckee,South,Cabinet,Furniture,4,43053,172212,166906,5306
+1540,12-08-2010,Timothy Duncan,East,Monitor,Electronics,4,42219,168876,163839,5037
+1216,07-12-2007,Jordan Henderson,North,Smartphone,Electronics,4,20462,81848,80840,1008
+1738,01-01-1992,Gabrielle Davis,West,Cabinet,Furniture,1,20314,20314,18082,2232
+1999,09-12-1982,Denise Jacobs,South,Smartphone,Electronics,4,46330,185320,180332,4988
+1714,18-06-2003,Gabrielle Davis,West,,Electronics,4,44194,176776,170889,5887
+1668,25-09-2008,Fred Smith,West,Smartphone,Electronics,2,33506,67012,65125,1887
+1040,03-08-2015,Angelica Tucker,South,Cabinet,Furniture,4,58990,235960,230247,5713
+1232,08-05-2004,Lisa Jackson,South,Laptop,Electronics,1,4450,4450,1655,2795
+1495,05-03-1971,Patty Perez,North,Cabinet,Furniture,2,31626,63252,56384,6868
+1705,07-01-2002,Holly Wood,South,Cabinet,Furniture,5,23049,115245,106640,8605
+1968,04-04-1977,Jordan Henderson,South,Headphones,Electronics,5,30373,151865,148546,3319
+1067,17-08-2022,Jordan Henderson,South,Headphones,Electronics,5,52679,263395,257857,5538
+1295,17-08-2006,Carla Gray,North,Laptop,Electronics,2,49530,99060,97630,1430
+1068,29-12-1988,Tracy House,West,Headphones,Electronics,4,26486,105944,100516,5428
+1480,29-10-1975,Sherry Decker,East,Monitor,Electronics,1,2898,2898,-1439,4337
+1329,27-03-1979,Ethan Adams,East,Laptop,Electronics,4,6624,26496,19581,6915
+1627,26-08-1980,Crystal Robinson,South,Laptop,Electronics,4,20806,83224,77479,5745
+1108,27-02-2020,Angie Henderson,West,Monitor,Electronics,4,10889,43556,38294,5262
+1984,19-12-2022,Steve Sanchez,North,Bookshelf,Furniture,5,38383,191915,187279,4636
+1347,02-01-2002,Gerald Hensley,South,Cabinet,Furniture,3,15203,45609,38876,6733
+1299,06-06-2024,James Brown,South,Desk Chair,Furniture,2,27505,55010,47726,7284
+1644,19-11-1985,,North,Cabinet,Furniture,1,53770,53770,51844,1926
+1308,18-06-1996,Tracy House,South,Cabinet,Furniture,2,16819,33638,24474,9164
+1855,16-09-2003,,East,Laptop,Electronics,3,54378,163134,153517,9617
+1507,31-08-2007,Connor West,West,Office Desk,Furniture,3,24694,74082,69307,4775
+1297,29-12-2019,Megan Young,South,Office Desk,Furniture,1,27688,27688,27170,518
+1881,20-06-1975,Margaret Hawkins DDS,East,Bookshelf,Furniture,1,11520,11520,2971,8549
+1667,19-12-2020,,South,Bookshelf,Furniture,1,25453,25453,18804,6649
+1101,12-02-1970,Connor West,West,Bookshelf,Furniture,1,47850,47850,41570,6280
+1089,07-05-1991,Connie Lawrence,West,Desk Chair,Furniture,3,55072,165216,162012,3204
+1064,03-05-1992,,East,Laptop,Electronics,5,56571,282855,274397,8458
+1844,27-08-1991,Derek Zuniga,West,Headphones,Electronics,4,46087,184348,182191,2157
+1889,05-09-2021,Lisa Archer,South,Cabinet,Furniture,3,22075,66225,60512,5713
+1140,23-09-2008,Zachary Hicks,East,Headphones,Electronics,1,58577,58577,53618,4959
+1758,06-07-1973,Danny Morgan,West,Monitor,Electronics,4,47024,188096,181473,6623
+1616,21-02-1984,Shane Henderson,South,Cabinet,Furniture,5,53889,269445,264454,4991
+1500,28-01-2017,Paula Moreno,West,Monitor,Electronics,4,2376,9504,7414,2090
+1666,29-06-2010,Brittney Phillips,South,Office Desk,Furniture,2,20341,40682,32443,8239
+1585,26-02-1980,Eric Carney,East,Monitor,Electronics,1,33583,33583,27696,5887
+1110,30-05-1983,Judy Baker,East,Headphones,Electronics,4,6052,24208,18905,5303
+1917,18-12-1989,Lauren Daniels,East,Bookshelf,Furniture,3,52459,157377,153100,4277
+1651,15-09-2024,Michael Lewis,South,Office Desk,Furniture,5,50061,250305,243736,6569
+1534,13-12-2002,Christina Walters,East,Office Desk,Furniture,2,40433,80866,74353,6513
+1446,30-09-2019,Whitney Peters,North,Smartphone,Electronics,1,43631,43631,33845,9786
+1606,18-01-2010,Monica Herrera,South,Smartphone,Electronics,3,46008,138024,135379,2645
+1137,28-11-2020,Paul Jones,North,Laptop,Electronics,5,53674,268370,262280,6090
+1812,09-08-2023,Lisa Barnes,East,Office Desk,Furniture,3,23658,70974,66179,4795
+1515,30-10-2017,Denise Jacobs,West,Bookshelf,Furniture,2,52867,105734,101909,3825
+1754,04-12-2003,Ryan Munoz,East,Cabinet,Furniture,5,46776,233880,232440,1440
+1159,14-10-2004,Brent Jordan,West,Laptop,Electronics,3,38049,114147,105213,8934
+1311,20-03-2016,Shirley Suarez,East,Laptop,Electronics,3,3600,10800,9857,943
+1328,03-03-1999,Christina Walters,South,Office Desk,Furniture,5,20491,102455,95655,6800
+1137,28-11-2020,Paul Jones,North,Laptop,Electronics,5,53674,268370,262280,6090
+1936,22-05-1986,Noah Rhodes,North,Headphones,Electronics,2,37463,74926,73219,1707
+1255,11-06-1989,Amy Silva,West,Laptop,Electronics,4,40422,161688,154213,7475
+1276,18-04-1998,Mark Perez,South,Cabinet,Furniture,4,33356,133424,127080,6344
+1902,14-07-1999,Sherri Baker,North,Desk Chair,Furniture,2,39903,79806,73230,6576
+1185,02-05-2002,Anthony Rodriguez,East,Smartphone,Electronics,2,48171,96342,92911,3431
+1583,25-08-1973,Lisa Hensley,North,Headphones,Electronics,3,3178,9534,1793,7741
+1661,10-11-1974,Amy Silva,West,Headphones,Electronics,4,45152,180608,173615,6993
+1897,28-07-2016,Justin Baker,West,Laptop,Electronics,3,47485,142455,138924,3531
+1210,20-12-1981,Anthony Humphrey,West,Laptop,Electronics,1,52286,52286,43457,8829
+1169,06-03-2015,Tracy House,East,Office Desk,Furniture,2,8478,16956,15927,1029
+1867,01-03-2019,Sherri Baker,South,Bookshelf,Furniture,5,16100,80500,78981,1519
+1281,21-05-2022,Eric Carney,West,Smartphone,Electronics,2,9547,19094,9111,9983
+1900,25-10-2020,Tracy House,East,Desk Chair,Furniture,4,3449,13796,6088,7708
+1542,03-11-1976,Eric Carney,North,Headphones,Electronics,3,6079,18237,14496,3741
+1056,08-10-1990,Derek Zuniga,West,Bookshelf,Furniture,4,51129,204516,200532,3984
+1121,09-06-1990,Eric Carney,West,Office Desk,Furniture,3,32614,97842,91355,6487
+1555,17-09-1973,John Pierce,West,Laptop,Electronics,3,32647,97941,93538,4403
+1026,08-07-1980,Denise Jacobs,North,Smartphone,Electronics,1,40302,40302,34331,5971
+1073,29-03-2016,Jordan Henderson,East,Office Desk,Furniture,2,46975,93950,86075,7875
+1539,13-09-2005,,South,Desk Chair,Furniture,1,20376,20376,16249,4127
+1045,31-10-1980,Gerald Hensley,East,Smartphone,Electronics,5,50965,254825,253344,1481
+1498,29-01-1985,Monica Herrera,West,Desk Chair,Furniture,4,7491,29964,20324,9640
+1199,09-08-1986,Lisa Archer,West,Bookshelf,Furniture,1,49103,49103,45982,3121
+1378,02-06-1981,Matthew Mcmillan,South,Bookshelf,Furniture,5,40197,200985,196028,4957
+1315,26-03-1981,Jessica Holmes,West,Office Desk,Furniture,2,16015,32030,24081,7949
+1719,06-09-1992,Brian Rodriguez,North,Headphones,Electronics,2,7753,15506,7481,8025
+1209,22-11-1984,Shirley Suarez,North,Bookshelf,Furniture,2,54699,109398,100930,8468
+1722,12-02-1977,,North,Desk Chair,Furniture,2,22058,44116,36374,7742
+1919,05-07-1995,Gina Moore,North,Bookshelf,Furniture,4,58279,233116,227728,5388
+1536,23-04-2019,Gabrielle Davis,East,Monitor,Electronics,5,25648,128240,126825,1415
+1696,31-05-1971,Judy Baker,South,Laptop,Electronics,1,59738,59738,57977,1761
+1605,27-03-1990,Christopher Bass,West,Cabinet,Furniture,5,23068,115340,108393,6947
+1591,23-01-1978,Rebecca Henderson,North,Office Desk,Furniture,4,32999,131996,125842,6154
+1291,28-04-1990,Cristian Santos,North,Headphones,Electronics,4,30225,120900,120068,832
+1960,16-11-1998,William Baker,East,Cabinet,Furniture,1,2317,2317,-1300,3617
+1333,15-09-1987,Gerald Hensley,West,,Furniture,4,46751,187004,184958,2046
+1211,20-09-2024,Christopher Bass,North,Smartphone,Electronics,4,51449,205796,202648,3148
+1343,05-03-2021,Aimee Montoya,West,Bookshelf,Furniture,3,55176,165528,156253,9275
+1061,01-12-2014,Noah Rhodes,South,Headphones,Electronics,3,25556,76668,73662,3006
+1345,03-03-1987,Matthew Foster,West,,Electronics,4,29321,117284,113751,3533
+1891,26-10-2006,Brian Rodriguez,,Cabinet,Furniture,3,6490,19470,11630,7840
+1712,30-08-1999,Anna Henderson,North,Desk Chair,Furniture,1,24120,24120,20398,3722
+1468,23-02-1994,Matthew Mcmillan,North,Headphones,Electronics,4,3720,14880,8707,6173
+1424,02-08-1998,William Baker,South,Headphones,Electronics,3,17353,52059,46758,5301
+1260,04-10-2006,Margaret Hawkins DDS,North,Bookshelf,Furniture,5,9919,49595,46670,2925
+1781,16-04-1985,James Brown,West,Headphones,Electronics,4,22029,88116,84198,3918
+1406,25-07-2016,Elizabeth Fowler,North,Bookshelf,Furniture,3,30041,90123,88429,1694
+1789,11-11-1989,Victoria Garcia,West,Bookshelf,Furniture,2,56499,112998,107578,5420
+1768,19-12-1971,Jessica Callahan,East,Laptop,Electronics,1,56154,56154,50572,5582
+1484,01-04-2003,Aimee Montoya,North,Bookshelf,Furniture,2,49225,98450,96820,1630
+1531,13-01-1983,Lauren Daniels,West,Office Desk,Furniture,1,28033,28033,19452,8581
+1811,16-02-1993,Stephen Mckee,East,Laptop,Electronics,5,27401,137005,128677,8328
+2000,02-04-2012,Justin Baker,North,Desk Chair,Furniture,5,25943,129715,125534,4181
+1967,19-11-2002,Victoria Garcia,East,Desk Chair,Furniture,5,44483,222415,220439,1976
+1111,14-10-1994,John Daniel,North,Desk Chair,Furniture,4,5165,20660,13140,7520
+1996,22-12-1993,Shannon Jones,North,Smartphone,Electronics,1,28280,28280,23518,4762
+1559,05-08-1978,Deborah Figueroa,South,Bookshelf,Furniture,5,52264,261320,254660,6660
+1794,01-11-2002,Jessica Smith,South,Cabinet,Furniture,1,13736,13736,4443,9293
+1937,13-11-2003,Sherri Baker,South,Desk Chair,Furniture,1,18451,18451,10204,8247
+1920,23-04-1999,John Whitehead,West,Bookshelf,Furniture,1,51727,51727,44889,6838
+1943,14-04-1987,Jessica Callahan,South,Desk Chair,Furniture,2,6453,12906,4512,8394
+1320,02-11-1971,Christina Walters,West,Office Desk,Furniture,3,30247,90741,80820,9921
+1517,08-06-1988,Holly Wood,West,Desk Chair,Furniture,2,52321,104642,99300,5342
+1450,15-09-1986,Debra Davidson,South,Bookshelf,Furniture,4,53230,212920,207795,5125
+1784,29-12-1977,John Whitehead,West,Bookshelf,Furniture,5,31389,156945,154249,2696
+1594,28-04-1998,Jessica Holmes,,Laptop,Electronics,4,27305,109220,107092,2128
+1910,24-03-2017,Jessica Holmes,East,Headphones,Electronics,1,44762,44762,44204,558
+1744,03-10-2014,Lisa Jackson,North,Office Desk,Furniture,2,54005,108010,106067,1943
+1138,04-11-1981,James Brown,North,Headphones,Electronics,3,13553,40659,31969,8690
+1800,08-02-1996,Megan Young,South,Cabinet,Furniture,5,41300,206500,197139,9361
+1934,03-03-2012,Lisa Jackson,North,Monitor,Electronics,1,55803,55803,52359,3444
+1823,11-02-1980,Fred Smith,East,Cabinet,Furniture,5,43999,219995,216282,3713
+1766,26-12-2002,Aaron Wise,North,,Electronics,5,13656,68280,65276,3004
+1262,02-06-1979,Patty Perez,South,Cabinet,Furniture,3,36640,109920,109254,666
+1568,30-07-2002,Rebecca Henderson,South,Laptop,Electronics,4,9427,37708,29447,8261
+1833,26-12-2000,Michael Evans,East,Cabinet,Furniture,5,58274,291370,285777,5593
+1382,19-11-2018,Lisa Archer,West,Cabinet,Furniture,2,10011,20022,11707,8315
+1334,19-10-1995,John Pierce,East,Laptop,Electronics,1,1619,1619,-6564,8183
+1537,14-02-2010,Justin Baker,East,Monitor,Electronics,1,33012,33012,27449,5563
+1352,25-10-1993,Lisa Jackson,South,Laptop,Electronics,1,27417,27417,25879,1538
+1786,23-06-1980,Patty Perez,West,,Furniture,3,47686,143058,134315,8743
+1452,24-12-1988,Paula Moreno,West,Smartphone,Electronics,1,16259,16259,8791,7468
+1079,25-02-1982,Rebecca Henderson,East,Headphones,Electronics,4,51905,207620,203049,4571
+1030,04-03-2025,Stephanie Ross,East,Laptop,Electronics,3,16669,50007,46164,3843
+1713,13-03-2013,Angelica Tucker,,Monitor,Electronics,4,15176,60704,58414,2290
+1278,28-01-1984,Lauren Daniels,South,Laptop,Electronics,4,28779,115116,108437,6679
+1248,23-12-2002,Michele Williams,West,Bookshelf,Furniture,1,14986,14986,11847,3139
+1658,21-02-1980,Ethan Adams,West,Desk Chair,Furniture,3,53060,159180,149672,9508
+1307,23-12-1971,Cassandra Gaines,North,Smartphone,Electronics,4,15219,60876,57791,3085
+1166,09-10-1975,Stephanie Ross,East,Headphones,Electronics,1,58934,58934,55163,3771
+1817,30-05-2019,Tracy House,North,Laptop,Electronics,4,30644,122576,118424,4152
+1179,20-11-2024,Danny Morgan,East,Headphones,Electronics,5,54115,270575,266872,3703
+1486,05-08-2021,Lisa Hensley,East,Laptop,Electronics,1,31357,31357,23417,7940
+1066,22-09-1974,Sherry Decker,South,Smartphone,Electronics,2,51113,102226,99057,3169
+1142,20-08-1997,Anthony Humphrey,South,Office Desk,Furniture,4,56040,224160,216092,8068
+1437,07-04-2014,Debra Davidson,North,Office Desk,Furniture,5,47875,239375,237097,2278
+1523,08-02-1983,Brent Jordan,South,Monitor,Electronics,5,48008,240040,236890,3150
+1845,04-09-2020,Judy Baker,East,Desk Chair,Furniture,3,37739,113217,107504,5713
+1421,24-01-2014,,East,Desk Chair,Furniture,2,43747,87494,82242,5252
+1405,10-07-1990,Stephen Mckee,North,Office Desk,Furniture,4,22052,88208,85032,3176
+1680,09-08-2003,Tracy House,South,Office Desk,Furniture,2,52133,104266,99308,4958
+1266,23-03-2017,Anthony Humphrey,South,Office Desk,Furniture,3,39433,118299,115599,2700
+1880,22-03-2014,Shane Henderson,North,Headphones,Electronics,4,41474,165896,157069,8827
+1293,16-07-1996,Tricia Valencia,East,Monitor,Electronics,2,30798,61596,53111,8485
+1222,14-08-2001,Shannon Jones,West,Laptop,Electronics,4,15913,63652,59905,3747
+1828,15-08-1992,Ethan Adams,North,Laptop,Electronics,5,24072,120360,112422,7938
+1236,30-10-1980,Jordan Henderson,East,Laptop,Electronics,2,53407,106814,104424,2390
+1526,21-07-2020,Noah Rhodes,South,Smartphone,Electronics,5,13511,67555,64586,2969
+1193,26-03-1983,Crystal Robinson,South,Bookshelf,Furniture,1,36867,36867,27222,9645
+1322,12-04-2010,Michele Williams,East,Office Desk,Furniture,2,41974,83948,82093,1855
+1050,20-08-1972,Denise Jacobs,North,Monitor,Electronics,2,36187,72374,64656,7718
+1892,11-06-1972,Debra Davidson,South,,Furniture,5,38421,192105,183470,8635
+1003,15-02-1995,Cristian Santos,East,Laptop,Electronics,1,17700,17700,12280,5420
+1818,26-04-1990,,North,Cabinet,Furniture,5,14154,70770,61703,9067
+1371,18-05-2008,Philip Cannon,South,Cabinet,Furniture,5,8282,41410,40698,712
+1922,14-08-1986,Tricia Valencia,North,Desk Chair,Furniture,4,20171,80684,78761,1923
+1250,13-04-1986,Brian Ramirez,West,Bookshelf,Furniture,5,4140,20700,14221,6479
+1549,18-12-1970,Cristian Santos,South,Cabinet,Furniture,4,23937,95748,93470,2278
+1433,21-08-1999,Danny Morgan,South,Laptop,Electronics,5,49425,247125,243724,3401
+1939,28-09-1979,Lauren Daniels,East,Headphones,Electronics,2,2411,4822,-1883,6705
+1508,17-02-2006,Cristian Santos,North,Bookshelf,Furniture,1,22635,22635,14185,8450
+1034,17-03-1982,Lisa Archer,West,Bookshelf,Furniture,1,48636,48636,47998,638
+1205,27-05-2022,Timothy Duncan,East,Bookshelf,Furniture,4,3071,12284,6597,5687
+1890,17-03-2003,Brittany Farmer,North,Monitor,Electronics,5,58041,290205,287535,2670
+1589,19-10-1975,Shannon Jones,West,Bookshelf,Furniture,5,41357,206785,197505,9280
+1731,02-10-2021,Whitney Peters,South,Laptop,Electronics,3,14345,43035,40621,2414
+1078,11-10-1987,Connor West,East,Monitor,Electronics,4,50254,201016,193032,7984
+1085,29-07-1999,Cristian Santos,West,Headphones,Electronics,1,55275,55275,52681,2594
+1306,18-01-2003,Lisa Archer,South,Headphones,Electronics,1,53534,53534,50332,3202
+1083,18-05-1977,Lisa Archer,North,Bookshelf,Furniture,4,13869,55476,51532,3944
+1449,07-12-1991,Jordan Henderson,East,Headphones,Electronics,5,39129,195645,189014,6631
+1998,28-04-2013,Patty Perez,West,Cabinet,Furniture,2,14457,28914,19233,9681
+1752,15-05-2012,Jordan Henderson,South,Desk Chair,Furniture,5,39793,198965,197375,1590
+1532,22-09-1984,Gerald Hensley,East,Bookshelf,Furniture,2,17394,34788,25246,9542
+1324,12-02-2015,Gina Moore,West,Cabinet,Furniture,5,17736,88680,86879,1801
+1496,01-05-1976,Brittany Farmer,West,Monitor,Electronics,5,3349,16745,12107,4638
+1911,19-05-1990,William Baker,South,Laptop,Electronics,3,43928,131784,123512,8272
+1006,29-01-1980,Ethan Adams,West,Headphones,Electronics,2,59322,118644,111683,6961
+1426,08-03-1977,Jessica Holmes,North,Office Desk,Furniture,5,33669,168345,164223,4122
+1491,10-06-2018,Paul Jones,North,Cabinet,Furniture,5,59418,297090,292105,4985
+1098,08-01-1973,Judy Baker,South,Office Desk,Furniture,3,2928,8784,7172,1612
+1762,01-12-1978,Lisa Barnes,North,Headphones,Electronics,4,23124,92496,91422,1074
+1423,11-11-1970,Brian Ramirez,North,Cabinet,Furniture,4,40344,161376,155643,5733
+1886,20-07-1991,Jordan Henderson,North,Desk Chair,Furniture,2,51237,102474,99383,3091
+1282,30-09-2009,Lisa Barnes,South,Bookshelf,Furniture,3,21600,64800,57512,7288
+1267,25-05-1980,Christina Walters,North,Headphones,Electronics,1,54597,54597,53755,842
+1443,26-11-2002,Gina Moore,East,Office Desk,Furniture,3,7937,23811,22364,1447
+1746,09-06-2001,Sherri Baker,South,Bookshelf,Furniture,5,7765,38825,32152,6673
+1383,17-10-1977,Debra Davidson,North,Desk Chair,Furniture,1,35498,35498,26900,8598
+1693,20-11-2015,Derek Zuniga,South,Office Desk,Furniture,4,41403,165612,156721,8891
+1894,28-08-1974,John Pierce,West,Laptop,Electronics,4,28873,115492,113403,2089
+1535,25-10-1988,Cassandra Gaines,South,Bookshelf,Furniture,1,12608,12608,10635,1973
+1119,25-06-1978,Michael Lewis,North,Cabinet,Furniture,4,23290,93160,88287,4873
+1389,01-10-1971,Anthony Rodriguez,South,Headphones,Electronics,3,1241,3723,-5872,9595
+1251,08-09-1988,Christopher Bass,North,Cabinet,Furniture,5,42289,211445,210330,1115
+1944,10-04-2001,Mike Allen,,Monitor,Electronics,5,21274,106370,98674,7696
+1454,06-08-1986,Aimee Montoya,North,Headphones,Electronics,3,15218,45654,41380,4274
+1010,23-12-1990,Joshua Blair,West,Headphones,Electronics,5,56595,282975,274961,8014
+1197,23-08-2003,Cassandra Gaines,North,Smartphone,Electronics,4,9914,39656,34997,4659
+1619,04-01-1988,Steve Sanchez,North,Desk Chair,Furniture,5,4952,24760,19719,5041
+1082,08-08-1972,Anthony Humphrey,South,Bookshelf,Furniture,2,19411,38822,35110,3712
+1399,30-12-2016,Tricia Valencia,East,Smartphone,Electronics,3,55826,167478,159301,8177
+1502,02-11-1990,Brent Jordan,South,Laptop,Electronics,2,2725,5450,-997,6447
+1635,22-03-1972,Anthony Humphrey,East,Headphones,Electronics,5,51416,257080,253578,3502
+1240,22-08-1987,Brent Jordan,East,Bookshelf,Furniture,5,15504,77520,74559,2961
+1310,08-07-2015,Judy Baker,West,Smartphone,Electronics,3,41277,123831,121946,1885
+1212,10-05-2017,Abigail Shaffer,South,Smartphone,Electronics,5,6263,31315,24162,7153
+1835,02-11-1982,Brent Jordan,South,Bookshelf,Furniture,1,41827,41827,40102,1725
+1381,23-11-2020,Patty Perez,South,Laptop,Electronics,5,12620,63100,62303,797
+1602,20-11-1995,Nathan Maldonado,West,Monitor,Electronics,3,26966,80898,72619,8279
+1228,24-05-2021,Steve Sanchez,West,Monitor,Electronics,3,3412,10236,7729,2507
+1874,08-03-2023,Lisa Barnes,East,Cabinet,Furniture,4,41212,164848,156893,7955
+1360,11-02-1972,Brian Ramirez,West,Bookshelf,Furniture,4,14943,59772,54727,5045
+1814,07-03-1988,Aaron Wise,South,Smartphone,Electronics,3,52947,158841,152335,6506
+1178,15-04-1985,Gina Moore,North,Headphones,Electronics,3,59864,179592,174070,5522
+1995,28-07-2024,Angelica Tucker,West,Desk Chair,Furniture,5,34361,171805,163208,8597
+1757,19-09-2021,Tommy Walter,East,Office Desk,Furniture,2,5453,10906,6035,4871
+1494,17-12-2023,Connor West,West,Laptop,Electronics,5,36419,182095,173989,8106
+1335,11-04-1992,Anthony Humphrey,South,Smartphone,Electronics,4,33116,132464,125311,7153
+1893,08-01-2012,Stephen Mckee,South,Headphones,Electronics,5,22067,110335,101124,9211
+1008,03-09-1978,Jamie Arnold,East,Monitor,Electronics,3,34214,102642,97701,4941
+1156,02-02-2000,Brittany Farmer,West,Bookshelf,Furniture,3,5176,15528,10889,4639
+1843,20-12-1972,Joshua Blair,East,Cabinet,Furniture,2,54638,109276,101232,8044
+1751,15-08-1994,Elizabeth Fowler,East,Monitor,Electronics,5,26874,134370,129301,5069
+1942,30-05-2013,Brian Rodriguez,North,Desk Chair,Furniture,4,20652,82608,73156,9452
+1483,28-08-1997,Richard Aguirre,West,Cabinet,Furniture,5,56613,283065,276239,6826
+1847,28-12-2017,Anthony Humphrey,West,Office Desk,Furniture,2,1169,2338,-3081,5419
+1750,12-04-2005,Michael Lewis,North,Smartphone,Electronics,3,49711,149133,140120,9013
+1904,29-09-2021,Brian Rodriguez,South,Monitor,Electronics,2,38705,77410,75832,1578
+1592,23-12-2007,Fred Smith,East,Cabinet,Furniture,2,34182,68364,66463,1901
+1953,01-10-1980,Danny Morgan,East,Laptop,Electronics,5,26317,131585,122396,9189
+1581,31-10-2012,Zachary Hicks,North,Office Desk,Furniture,1,11997,11997,3037,8960
+1440,30-12-2024,Matthew Foster,East,Bookshelf,Furniture,2,5842,11684,10930,754
+1543,18-03-1983,Matthew Foster,West,Laptop,Electronics,2,35405,70810,70157,653
+1597,23-10-2023,Anthony Humphrey,East,Office Desk,Furniture,1,10499,10499,2790,7709
+1724,11-06-1992,Aimee Montoya,East,Desk Chair,Furniture,5,7610,38050,32844,5206
+1678,22-01-2004,Connie Lawrence,South,Office Desk,Furniture,1,6399,6399,-747,7146
+1479,01-01-1983,William Baker,East,Laptop,Electronics,2,34728,69456,64265,5191
+1229,13-02-2000,Angela Lopez,North,Monitor,Electronics,5,21535,107675,106661,1014
+1975,02-08-2017,Deborah Figueroa,North,Monitor,Electronics,5,52731,263655,254371,9284
+1815,05-03-1970,,South,Headphones,Electronics,4,59229,236916,234625,2291
+1213,31-03-2005,Paula Moreno,North,Cabinet,Furniture,5,5409,27045,21541,5504
+1080,05-07-2009,Daniel Baker,South,Headphones,Electronics,5,20889,104445,100299,4146
+1149,22-06-2023,Paul Jones,East,Office Desk,Furniture,4,22236,88944,82289,6655
+1303,06-12-1984,Tommy Walter,South,Headphones,Electronics,3,27282,81846,81108,738
+1356,01-03-2023,Jordan Henderson,,Bookshelf,Furniture,4,35001,140004,132807,7197
+1430,14-04-2001,Joshua Blair,,Headphones,Electronics,4,49246,196984,194186,2798
+1520,09-09-1985,John Daniel,West,Office Desk,Furniture,3,16855,50565,42489,8076
+1363,22-05-1971,Megan Young,East,Desk Chair,Furniture,4,17661,70644,64862,5782
+1595,06-04-2011,Christina Walters,East,Office Desk,Furniture,5,57017,285085,283974,1111
+1358,27-09-1972,Jamie Arnold,South,Monitor,Electronics,3,29020,87060,84690,2370
+1134,01-04-2015,Dylan Miller,South,Office Desk,Furniture,3,30725,92175,83608,8567
+1830,30-11-2021,Angie Henderson,East,Office Desk,Furniture,1,19455,19455,16342,3113
+1312,24-04-2024,Jessica Holmes,,Laptop,Electronics,5,41264,206320,204943,1377
+1622,08-09-1980,Deborah Figueroa,North,Laptop,Electronics,2,3078,6156,-358,6514
+1465,17-05-1982,John Pierce,East,Laptop,Electronics,5,2686,13430,11615,1815
+1994,24-04-2011,Stephen Mckee,East,Desk Chair,Furniture,3,14170,42510,37214,5296
+1001,16-02-2007,John Whitehead,North,Bookshelf,Furniture,2,43460,86920,78258,8662
+1317,08-09-1978,Stephen Mckee,North,Monitor,Electronics,3,45031,135093,131046,4047
+1723,11-12-1980,Brent Jordan,West,Desk Chair,Furniture,5,10290,51450,49927,1523
+1560,29-05-2013,Jessica Holmes,West,Cabinet,Furniture,2,3538,7076,3137,3939
+1372,31-10-1984,James Ferrell,North,Office Desk,Furniture,1,5926,5926,-2247,8173
+1545,25-06-1985,Angie Henderson,South,Cabinet,Furniture,1,50995,50995,46249,4746
+1850,10-04-1996,Tracy House,East,Desk Chair,Furniture,2,19374,38748,32569,6179
+1395,28-08-2018,,East,Monitor,Electronics,5,57450,287250,279198,8052
+1173,10-05-1976,John Pierce,North,Headphones,Electronics,2,32161,64322,61957,2365
+1126,13-03-1992,Tricia Valencia,West,Bookshelf,Furniture,5,4334,21670,18594,3076
+1899,25-06-1985,Tricia Valencia,West,Office Desk,Furniture,4,20491,81964,76153,5811
+1579,16-01-1975,Lisa Hensley,West,Bookshelf,Furniture,3,27767,83301,75314,7987
+1949,29-08-2001,Lisa Hensley,South,Headphones,Electronics,3,23562,70686,69384,1302
+1921,28-11-1979,Zachary Hicks,South,Laptop,Electronics,1,49049,49049,44002,5047
+1091,03-04-2011,Holly Wood,South,Office Desk,Furniture,1,13066,13066,6917,6149
+1971,02-12-2008,Philip Cannon,East,Laptop,Electronics,4,53158,212632,208433,4199
+1182,31-08-1971,Steve Sanchez,West,Headphones,Electronics,2,5557,11114,5205,5909
+1364,13-04-2012,Lisa Jackson,West,Bookshelf,Furniture,3,23731,71193,70471,722
+1275,15-09-2001,Shannon Jones,West,Desk Chair,Furniture,4,25398,101592,99913,1679
+1913,17-02-1973,Denise Jacobs,East,Bookshelf,Furniture,1,12968,12968,8172,4796
+1070,27-08-2013,Margaret Hawkins DDS,East,Monitor,Electronics,5,29354,146770,142809,3961
+1292,10-04-2021,,East,Smartphone,Electronics,1,51520,51520,49136,2384
+1132,21-01-1983,Jessica Callahan,West,Headphones,Electronics,3,29594,88782,85523,3259
+1301,03-01-1985,James Brown,North,Laptop,Electronics,2,3056,6112,-2860,8972
+1448,07-04-1988,Michael Evans,East,Monitor,Electronics,4,27760,111040,106009,5031
+1327,27-09-2013,Cristian Santos,West,Cabinet,Furniture,3,38477,115431,111282,4149
+1145,05-09-1990,Anna Henderson,East,Cabinet,Furniture,4,14070,56280,47938,8342
+1552,13-08-1978,Shannon Jones,South,Cabinet,Furniture,4,30110,120440,115899,4541
+1596,26-07-2010,Sherry Decker,East,Monitor,Electronics,5,53417,267085,258737,8348
+1656,19-04-1985,Michael Evans,West,Office Desk,Furniture,4,52037,208148,202212,5936
+1136,03-02-2016,Christina Walters,East,Laptop,Electronics,5,49116,245580,237681,7899
+1431,18-02-2018,Richard Aguirre,South,Headphones,Electronics,4,58139,232556,229124,3432
+1165,01-11-2014,Shannon Jones,South,Monitor,Electronics,3,35909,107727,105466,2261
+1029,07-06-2024,Crystal Robinson,West,Smartphone,Electronics,2,52601,105202,102512,2690
+1588,04-09-1990,Jordan Henderson,North,Headphones,Electronics,5,16949,84745,77168,7577
+1194,19-11-2018,Aimee Montoya,East,Smartphone,Electronics,1,59078,59078,58086,992
+1791,02-01-2018,Daniel Wagner,South,Monitor,Electronics,4,21238,84952,82241,2711
+1653,06-12-1998,Deborah Figueroa,South,Office Desk,Furniture,3,57191,171573,162552,9021
+1170,26-01-2013,Cristian Santos,East,Cabinet,Furniture,5,20026,100130,94925,5205
+1514,10-12-1993,,West,Desk Chair,Furniture,3,47010,141030,138210,2820
+1141,25-06-1990,Shirley Suarez,North,Headphones,Electronics,5,23752,118760,108926,9834
+1174,11-02-2021,John Daniel,East,Smartphone,Electronics,1,10452,10452,9059,1393
+1007,01-04-1999,,South,Laptop,Electronics,3,26113,78339,75435,2904
+1657,27-01-2014,Sarah Moore,East,Smartphone,Electronics,5,5307,26535,16649,9886
+1965,23-07-1983,,North,Monitor,Electronics,5,54389,271945,266959,4986
+1074,28-06-2006,Lisa Jackson,East,Monitor,Electronics,4,47553,190212,182576,7636
+1765,08-07-2017,Tricia Valencia,East,Smartphone,Electronics,2,32841,65682,64871,811
+1654,23-10-1977,Timothy Duncan,East,Bookshelf,Furniture,5,38016,190080,184109,5971
+1239,17-08-2000,Connie Lawrence,North,Laptop,Electronics,3,49531,148593,140679,7914
+1146,11-07-1989,Christopher Bass,East,Headphones,Electronics,1,49608,49608,46290,3318
+1809,05-10-2023,Zachary Ferrell,West,Desk Chair,Furniture,1,33076,33076,30922,2154
+1235,06-05-2000,Jessica Holmes,West,Office Desk,Furniture,2,53689,107378,101845,5533
+1221,15-07-2024,Matthew Mcmillan,East,Cabinet,Furniture,5,8208,41040,35203,5837
+1501,23-07-1986,Megan Young,West,Cabinet,Furniture,3,28110,84330,75017,9313
+1674,11-09-1990,Megan Young,West,Laptop,Electronics,2,12560,25120,23495,1625
+1133,12-08-1998,Jamie Arnold,South,Smartphone,Electronics,3,34836,104508,98004,6504
+1812,09-08-2023,Lisa Barnes,East,Office Desk,Furniture,3,23658,70974,66179,4795
+1434,26-12-1981,Connie Lawrence,West,Desk Chair,Furniture,4,25638,102552,97296,5256
+1671,18-06-1978,Brent Jordan,South,Headphones,Electronics,2,10440,20880,16398,4482
+1186,07-08-2011,Paul Jones,South,Laptop,Electronics,4,16832,67328,65772,1556
+1042,04-03-2025,Lisa Barnes,North,Laptop,Electronics,3,7446,22338,13183,9155
+1626,09-02-1975,Shannon Jones,North,Bookshelf,Furniture,5,26772,133860,129437,4423
+1109,21-08-2015,Christina Walters,North,Bookshelf,Furniture,2,15938,31876,24767,7109
+1604,16-02-2000,John Pierce,West,Smartphone,Electronics,2,16726,33452,26288,7164
+1057,15-02-2024,,West,Headphones,Electronics,4,31293,125172,118530,6642
+1429,02-04-2013,Lauren Daniels,North,Laptop,Electronics,3,21968,65904,63078,2826
+1469,17-04-2024,Aaron Wise,West,Headphones,Electronics,3,4617,13851,10976,2875
+1577,08-04-1997,Christopher Bass,West,Bookshelf,Furniture,5,31613,158065,151941,6124
+1878,20-02-2017,Abigail Shaffer,North,Monitor,Electronics,1,6898,6898,5970,928
+1025,01-01-2021,Carol Tucker,East,Monitor,Electronics,1,57105,57105,55671,1434
+1441,16-08-2006,Tracy House,East,Headphones,Electronics,2,19222,38444,29857,8587
+1883,22-11-2015,Lisa Archer,West,Smartphone,Electronics,1,7282,7282,720,6562
+1544,28-02-1990,Ethan Adams,West,Bookshelf,Furniture,2,38808,77616,74415,3201
+1634,27-10-1989,Megan Young,East,Desk Chair,Furniture,5,26823,134115,129012,5103
+1831,25-12-2006,Holly Wood,North,Laptop,Electronics,4,29686,118744,109467,9277
+1945,18-05-1987,Brent Jordan,East,Desk Chair,Furniture,3,24932,74796,68412,6384
+1339,19-12-1992,Holly Wood,,Smartphone,Electronics,5,27873,139365,138507,858
+1052,19-02-1985,Richard Aguirre,,Cabinet,Furniture,3,52301,156903,148587,8316
+1384,06-12-2022,Nathan Maldonado,North,Bookshelf,Furniture,3,36948,110844,103322,7522
+1528,13-11-2021,,South,Monitor,Electronics,5,2451,12255,9239,3016
+1939,28-09-1979,Lauren Daniels,East,Headphones,Electronics,2,2411,4822,-1883,6705
+1888,28-11-2018,Jordan Henderson,East,Headphones,Electronics,5,32910,164550,159910,4640
+1265,25-01-1996,Margaret Hawkins DDS,East,Headphones,Electronics,4,12786,51144,45845,5299
+1550,07-03-2018,Gina Moore,South,Smartphone,Electronics,5,6422,32110,23807,8303
+1914,28-01-1992,Christina Walters,East,Laptop,Electronics,3,41017,123051,116465,6586
+1698,01-10-2015,Amber Kidd,South,Bookshelf,Furniture,1,24740,24740,15302,9438
+1396,01-07-1983,Aaron Wise,North,Cabinet,Furniture,3,28835,86505,85304,1201
+1530,07-08-1982,Joshua Blair,East,Bookshelf,Furniture,5,37530,187650,183319,4331
+1869,25-11-1997,Monica Herrera,North,Smartphone,Electronics,3,23127,69381,62649,6732
+1019,29-12-1976,Matthew Mcmillan,South,Laptop,Electronics,4,25801,103204,94309,8895
+1732,08-06-2007,William Baker,East,Laptop,Electronics,1,43895,43895,41755,2140
+1679,30-09-2006,Brian Rodriguez,East,Cabinet,Furniture,3,8786,26358,20137,6221
+1582,17-09-2016,Lisa Barnes,West,Monitor,Electronics,2,58562,117124,110559,6565
+1977,30-06-1971,Brittney Phillips,North,Monitor,Electronics,2,51603,103206,99500,3706
+1368,24-03-2002,Zachary Hicks,South,Monitor,Electronics,2,5012,10024,4670,5354
+1084,06-08-2010,Paul Jones,North,Smartphone,Electronics,2,12088,24176,22201,1975
+1062,22-02-1983,Lauren Daniels,South,Smartphone,Electronics,4,11082,44328,43056,1272
+1842,14-12-1997,Lisa Barnes,West,Desk Chair,Furniture,3,29166,87498,85126,2372
+1273,08-07-1992,Steve Sanchez,East,Cabinet,Furniture,4,20787,83148,80152,2996
+1286,05-03-2009,John Pierce,East,Headphones,Electronics,4,36732,146928,138988,7940
+1361,30-10-1986,Amy Silva,East,Office Desk,Furniture,5,52222,261110,254440,6670
+1355,02-09-1974,Jeffrey Chavez,East,Desk Chair,Furniture,3,48833,146499,137702,8797
+1482,01-01-2019,Jamie Arnold,South,Smartphone,Electronics,4,34985,139940,131327,8613
+1279,04-08-1998,,East,Laptop,Electronics,3,59586,178758,178076,682
+1013,18-09-1972,Angie Henderson,East,Headphones,Electronics,3,58147,174441,171377,3064
+1183,22-02-1973,Anthony Humphrey,South,Headphones,Electronics,5,8450,42250,37699,4551
+1369,23-07-2015,James Brown,East,Bookshelf,Furniture,4,22449,89796,81442,8354
+1600,14-10-2022,Shane Henderson,South,Cabinet,Furniture,4,48791,195164,188966,6198
+1631,29-11-2016,Jeffrey Chavez,North,Laptop,Electronics,1,40180,40180,36966,3214
+1224,22-02-2006,Lisa Archer,North,Cabinet,Furniture,5,29595,147975,144646,3329
+1972,05-06-1994,Mike Allen,South,Headphones,Electronics,1,40626,40626,40095,531
+1715,17-03-1976,Cassandra Gaines,East,Smartphone,Electronics,1,43721,43721,39934,3787
+1778,01-08-2007,Rebecca Henderson,North,Monitor,Electronics,5,46748,233740,229071,4669
+1558,17-06-2017,Timothy Duncan,North,Headphones,Electronics,3,32233,96699,94173,2526
+1466,07-03-2003,James Brown,North,Cabinet,Furniture,2,29013,58026,54551,3475
+1598,31-01-2012,Whitney Peters,South,Office Desk,Furniture,3,18006,54018,48962,5056
+1708,04-02-2000,Brittany Farmer,South,Monitor,Electronics,1,12971,12971,7763,5208
+1177,15-02-1991,Michael Lewis,South,Desk Chair,Furniture,1,34951,34951,31767,3184
+1681,16-10-1999,Timothy Duncan,West,Office Desk,Furniture,1,23886,23886,18413,5473
+1854,08-05-1980,Carol Tucker,South,Smartphone,Electronics,4,2456,9824,1051,8773
+1955,23-01-2000,Mark Perez,East,Laptop,Electronics,2,36261,72522,71052,1470
+1457,11-10-2008,Eric Carney,South,Bookshelf,Furniture,4,37946,151784,145116,6668
+1533,06-04-2020,Victoria Garcia,South,Office Desk,Furniture,2,57287,114574,104724,9850
+1394,28-12-1996,,East,Desk Chair,Furniture,3,34133,102399,94298,8101
+1164,19-07-1981,Elizabeth Fowler,East,Cabinet,Furniture,1,47618,47618,38332,9286
+1249,25-08-2012,James Brown,East,Monitor,Electronics,4,21051,84204,79465,4739
+1650,29-12-2014,Lisa Archer,West,Office Desk,Furniture,2,43518,87036,78970,8066
+1903,12-09-1976,Ethan Adams,North,Bookshelf,Furniture,4,40937,163748,162809,939
+1685,27-05-1999,Michael Lewis,South,Office Desk,Furniture,2,17878,35756,28407,7349
+1376,10-03-2022,Gina Moore,South,Headphones,Electronics,5,32280,161400,153944,7456
+1413,17-10-1972,Whitney Peters,South,Cabinet,Furniture,3,54630,163890,159073,4817
+1075,14-07-1992,Connie Lawrence,North,Headphones,Electronics,2,31527,63054,61221,1833
+1114,15-03-2015,Stephen Mckee,West,Headphones,Electronics,3,27645,82935,78617,4318
+1584,29-04-1980,Zachary Hicks,West,Monitor,Electronics,4,39106,156424,147928,8496
+1573,08-03-1987,Lisa Barnes,North,Office Desk,Furniture,5,28053,140265,133438,6827
+1391,08-03-2009,,North,Office Desk,Furniture,2,39088,78176,71868,6308
+1105,27-09-2016,Lisa Hensley,South,Cabinet,Furniture,1,24012,24012,22023,1989
+1115,21-06-1992,Aaron Wise,North,Bookshelf,Furniture,2,20250,40500,33075,7425
+1418,21-03-1995,Ryan Munoz,West,Bookshelf,Furniture,1,21997,21997,12815,9182
+1669,22-08-1989,Jeffrey Chavez,South,Headphones,Electronics,5,13954,69770,67569,2201
+1458,14-07-2011,Allison Hill,South,Bookshelf,Furniture,1,51653,51653,43752,7901
+1410,08-03-2024,Noah Rhodes,North,Desk Chair,Furniture,3,2531,7593,5017,2576
+1093,14-11-1977,,South,Bookshelf,Furniture,1,26219,26219,18653,7566
+1820,19-06-2009,Mark Perez,East,Bookshelf,Furniture,2,24817,49634,45675,3959
+1090,12-09-1999,Zachary Ferrell,West,Headphones,Electronics,1,51389,51389,46760,4629
+1337,10-12-2000,Shannon Jones,South,Office Desk,Furniture,1,9011,9011,6158,2853
+1860,04-08-1992,Paula Moreno,North,Smartphone,Electronics,3,27478,82434,79782,2652
+1940,20-10-1985,Dylan Miller,North,Bookshelf,Furniture,1,23394,23394,16606,6788
+1952,13-03-2007,Lisa Hensley,West,Office Desk,Furniture,3,16895,50685,40806,9879
+1884,25-04-2006,Nathan Maldonado,North,Smartphone,Electronics,2,18295,36590,33568,3022
+1621,11-07-1975,Christopher Bass,West,Headphones,Electronics,4,59754,239016,236852,2164
+1790,18-08-2004,James Ferrell,West,Bookshelf,Furniture,5,26929,134645,127311,7334
+1627,26-08-1980,Crystal Robinson,South,Laptop,Electronics,4,20806,83224,77479,5745
+1095,28-03-2009,Michele Williams,,,Electronics,3,24740,74220,72975,1245
+1012,05-03-2024,William Baker,North,Office Desk,Furniture,4,23420,93680,91378,2302
+1397,04-03-1975,James Brown,South,Desk Chair,Furniture,1,27499,27499,24502,2997
+1546,23-07-1994,Tommy Walter,South,Desk Chair,Furniture,3,40926,122778,118097,4681
+1044,27-02-1988,Tracy House,East,Bookshelf,Furniture,2,7151,14302,12711,1591
+1043,21-11-1986,Steve Sanchez,South,Headphones,Electronics,2,23468,46936,39542,7394
+1168,28-01-2005,Matthew Mcmillan,West,Laptop,Electronics,4,38118,152472,144301,8171
+1417,07-01-2015,Anthony Humphrey,North,Office Desk,Furniture,3,21027,63081,53268,9813
+1877,31-05-2012,Deborah Figueroa,South,Laptop,Electronics,1,39287,39287,30469,8818
+1427,03-07-1999,,South,Bookshelf,Furniture,2,28429,56858,47099,9759
+1900,25-10-2020,Tracy House,East,Desk Chair,Furniture,4,3449,13796,6088,7708
+1981,21-07-1970,Dylan Miller,East,Office Desk,Furniture,4,43658,174632,173982,650
+1976,03-02-1990,Megan Young,West,Smartphone,Electronics,2,3300,6600,417,6183
+1688,31-01-2011,Lisa Jackson,North,Bookshelf,Furniture,5,52696,263480,256702,6778
+1258,08-11-1992,James Brown,East,Desk Chair,Furniture,5,20366,101830,91968,9862
+1336,27-05-1984,Cristian Santos,South,Monitor,Electronics,3,41429,124287,115780,8507
+1016,31-05-2016,Stephanie Ross,South,Headphones,Electronics,1,37718,37718,35232,2486
+1645,02-01-1988,Jeffrey Chavez,West,Cabinet,Furniture,5,8383,41915,39511,2404
+1325,05-11-1971,Carla Gray,East,Desk Chair,Furniture,2,37767,75534,73377,2157
+1775,23-02-1991,Gabrielle Davis,South,Monitor,Electronics,4,46784,187136,179272,7864
+1223,06-06-2015,Michael Lewis,South,Office Desk,Furniture,3,35748,107244,98385,8859
+1180,21-07-1983,Nathan Maldonado,West,Desk Chair,Furniture,2,6292,12584,5864,6720
+1661,10-11-1974,Amy Silva,West,Headphones,Electronics,4,45152,180608,173615,6993
+1522,31-01-2019,Jamie Arnold,North,,Furniture,5,3683,18415,11835,6580
+1023,27-08-1997,Monica Herrera,South,Desk Chair,Furniture,2,1927,3854,-2444,6298
+1357,09-05-2014,Jessica Callahan,North,Desk Chair,Furniture,2,59696,119392,115642,3750
+1962,08-01-1987,Anthony Humphrey,East,Office Desk,Furniture,2,2055,4110,-4353,8463
+1906,25-11-2017,Abigail Shaffer,North,Monitor,Electronics,2,21308,42616,37606,5010
+1341,20-10-1995,Lauren Daniels,South,Smartphone,Electronics,2,24428,48856,43246,5610
+1432,30-05-1980,Abigail Shaffer,South,Bookshelf,Furniture,2,54658,109316,103484,5832
+1774,11-10-1980,Brian Rodriguez,East,Cabinet,Furniture,5,14125,70625,65432,5193
+1851,02-03-2015,,West,Bookshelf,Furniture,2,59697,119394,115267,4127
+1204,07-02-2021,Angela Lopez,West,Smartphone,Electronics,5,27917,139585,130121,9464
+1918,24-05-1994,Mark Perez,North,Bookshelf,Furniture,2,52055,104110,103485,625
+1094,19-03-1996,Christopher Bass,East,Monitor,Electronics,5,12641,63205,58562,4643
+1571,19-07-1982,Tracy House,South,Headphones,Electronics,4,10617,42468,38285,4183
+1069,23-11-1993,Philip Cannon,West,Laptop,Electronics,3,55723,167169,165528,1641
+1755,23-07-2012,Brittany Farmer,North,Smartphone,Electronics,5,54418,272090,271217,873
+1285,05-02-2022,Steve Sanchez,,Headphones,Electronics,4,33392,133568,129043,4525
+1928,03-04-1982,Jordan Henderson,South,Laptop,Electronics,1,4917,4917,2949,1968
+1435,08-12-2019,Stephen Mckee,East,Laptop,Electronics,4,43932,175728,172432,3296
+1154,23-08-2001,Jeffrey Chavez,South,Headphones,Electronics,1,53064,53064,43238,9826
+1076,18-11-1971,John Daniel,South,Monitor,Electronics,1,1684,1684,-7539,9223
+1747,14-02-1998,Carol Tucker,South,Desk Chair,Furniture,3,38260,114780,111512,3268
+1447,27-04-2010,Margaret Hawkins DDS,,Bookshelf,Furniture,1,21002,21002,20401,601
+1189,28-12-2000,Anthony Rodriguez,North,Cabinet,Furniture,4,17776,71104,65214,5890
+1272,26-09-1997,Angie Henderson,West,Desk Chair,Furniture,1,55342,55342,54655,687
+1237,09-08-2020,Anthony Humphrey,West,Headphones,Electronics,1,13201,13201,11070,2131
+1488,30-12-2016,Brittany Farmer,,Desk Chair,Furniture,3,25282,75846,72409,3437
+1118,22-02-2015,Whitney Peters,North,Smartphone,Electronics,4,8273,33092,30237,2855
+1836,19-06-2017,Gabrielle Davis,South,Laptop,Electronics,1,26367,26367,21823,4544
+1513,05-07-1992,Michele Williams,North,Laptop,Electronics,1,31085,31085,25388,5697
+1077,06-11-1977,Amy Silva,North,Smartphone,Electronics,2,48312,96624,89567,7057
+1686,26-12-2019,Judy Baker,North,Cabinet,Furniture,5,37977,189885,185452,4433
+1127,20-05-1997,Angela Lopez,South,Bookshelf,Furniture,2,23286,46572,38933,7639
+1117,13-05-1991,Whitney Peters,East,Office Desk,Furniture,3,35266,105798,97121,8677
+1474,19-09-2017,Ryan Munoz,South,Bookshelf,Furniture,2,23304,46608,39535,7073
+1709,05-12-1988,Jamie Arnold,North,Bookshelf,Furniture,3,40857,122571,115477,7094
+1058,27-06-1985,Brian Rodriguez,East,Headphones,Electronics,5,57347,286735,284119,2616
+1690,05-10-1971,Abigail Shaffer,East,Monitor,Electronics,2,56643,113286,108439,4847
+1930,30-11-1981,William Baker,North,Cabinet,Furniture,1,10184,10184,4518,5666
+1370,14-10-1977,Zachary Ferrell,West,Desk Chair,Furniture,5,26404,132020,125743,6277
+1269,23-07-1984,Anthony Rodriguez,East,Office Desk,Furniture,5,12073,60365,58313,2052
+1047,21-09-2017,John Whitehead,East,Desk Chair,Furniture,2,34430,68860,67871,989
+1350,16-09-2006,John Daniel,East,Desk Chair,Furniture,2,12409,24818,23366,1452
+1196,17-02-1996,Rebecca Henderson,South,Smartphone,Electronics,5,30561,152805,143831,8974
+1320,02-11-1971,Christina Walters,West,Office Desk,Furniture,3,30247,90741,80820,9921
+1852,04-12-2023,Lauren Daniels,North,Office Desk,Furniture,2,11874,23748,17876,5872
+1707,03-05-2014,Angelica Tucker,North,Bookshelf,Furniture,4,56806,227224,221120,6104
+1753,23-06-2021,Carol Tucker,North,Smartphone,Electronics,5,44607,223035,213718,9317
+1264,27-09-1985,Christina Walters,South,Bookshelf,Furniture,3,3714,11142,5117,6025
+1444,20-08-2001,Jamie Arnold,South,Cabinet,Furniture,1,52496,52496,43029,9467
+1959,24-06-2013,Aaron Wise,West,Bookshelf,Furniture,1,34895,34895,27562,7333
+1305,29-08-1999,Jeffrey Chavez,North,Laptop,Electronics,5,25676,128380,121104,7276
+1342,08-12-1988,Jamie Arnold,North,Office Desk,Furniture,2,31123,62246,56847,5399
+1614,02-10-1976,William Baker,North,Laptop,Electronics,4,22614,90456,84884,5572
+1987,08-04-2011,Allison Hill,East,Laptop,Electronics,2,45024,90048,86885,3163
+1150,20-06-2009,Margaret Hawkins DDS,,Desk Chair,Furniture,4,19581,78324,77239,1085
+1125,16-10-1997,Stephanie Ross,South,Headphones,Electronics,2,3187,6374,-66,6440
+1803,02-08-2004,Tracy House,West,Monitor,Electronics,4,31098,124392,122280,2112
+1870,23-07-2014,Elizabeth Fowler,North,Bookshelf,Furniture,5,11138,55690,52259,3431
+1051,12-01-2002,Ethan Adams,West,Cabinet,Furniture,5,26365,131825,125989,5836
+1354,30-03-2014,Deborah Figueroa,East,Desk Chair,Furniture,2,51419,102838,100584,2254
+1946,19-05-2015,Ryan Munoz,East,Office Desk,Furniture,2,7454,14908,12440,2468
+1143,16-04-2007,James Ferrell,East,Monitor,Electronics,1,1740,1740,-687,2427
+1471,28-02-1993,Holly Wood,West,Bookshelf,Furniture,3,23009,69027,61449,7578
+1400,07-09-2012,Debra Davidson,North,Monitor,Electronics,4,35784,143136,138400,4736
+1717,05-09-1993,James Ferrell,North,Bookshelf,Furniture,3,8602,25806,17058,8748
+1321,24-10-1996,Crystal Robinson,South,Headphones,Electronics,1,41920,41920,38644,3276
+1020,25-01-1994,Lisa Archer,South,Headphones,Electronics,4,37746,150984,143268,7716
+1827,27-06-1993,Elizabeth Fowler,South,Monitor,Electronics,3,51799,155397,151715,3682
+1807,19-10-1988,Shirley Suarez,East,Headphones,Electronics,4,10081,40324,39334,990
+1826,17-12-2002,Michele Williams,North,Bookshelf,Furniture,4,25354,101416,97417,3999
+1408,25-10-2024,Jessica Smith,South,Smartphone,Electronics,5,27580,137900,128973,8927
+1538,25-09-2021,Connie Lawrence,North,Bookshelf,Furniture,2,45186,90372,85490,4882
+1636,02-10-1985,Daniel Wagner,North,Bookshelf,Furniture,4,22744,90976,85817,5159
+1039,04-08-2024,Jessica Callahan,North,Laptop,Electronics,4,55218,220872,211555,9317
+1176,14-10-2015,Jamie Arnold,South,Monitor,Electronics,4,55670,222680,215668,7012
+1246,03-12-2022,Sherri Baker,East,Headphones,Electronics,5,41719,208595,201125,7470
+1846,09-03-2002,,East,Monitor,Electronics,5,59829,299145,296431,2714
+1683,12-09-2010,Justin Baker,South,Bookshelf,Furniture,1,39974,39974,33808,6166
+1771,24-05-2024,Brittney Phillips,East,Smartphone,Electronics,1,44324,44324,41010,3314
+1969,21-02-1986,Connor West,South,Desk Chair,Furniture,5,50862,254310,251117,3193
+1155,24-01-2000,John Daniel,South,Bookshelf,Furniture,5,6138,30690,21808,8882
+1288,17-06-2002,Michael Lewis,West,Desk Chair,Furniture,2,13652,27304,25868,1436
+1618,12-05-1984,Danny Morgan,North,Bookshelf,Furniture,1,40048,40048,32074,7974
+1570,09-03-1993,,East,Office Desk,Furniture,3,49205,147615,141795,5820
+1760,04-03-1988,Cassandra Gaines,,Desk Chair,Furniture,5,52638,263190,259940,3250
+1018,21-05-2015,Gerald Hensley,South,Headphones,Electronics,5,44444,222220,218183,4037
+1128,12-06-2017,Noah Rhodes,North,Smartphone,Electronics,1,9131,9131,7885,1246
+1323,29-05-2008,Elizabeth Fowler,North,Office Desk,Furniture,3,23105,69315,65346,3969
+1256,16-12-1985,John Pierce,East,Monitor,Electronics,1,10512,10512,6464,4048
+1689,14-01-1987,Carla Gray,West,Cabinet,Furniture,3,27970,83910,82706,1204
+1985,03-09-2020,Paul Jones,South,Cabinet,Furniture,1,55877,55877,52413,3464
+1191,08-11-2012,Philip Cannon,South,Headphones,Electronics,5,7036,35180,34614,566
+1116,28-05-2012,Tracy House,East,Desk Chair,Furniture,3,31199,93597,85857,7740
+1632,30-05-2010,Whitney Peters,North,Cabinet,Furniture,1,53663,53663,48305,5358
+1607,08-03-1999,Crystal Robinson,North,Desk Chair,Furniture,4,3474,13896,8389,5507
+1181,11-01-1980,Shane Henderson,East,Desk Chair,Furniture,5,54315,271575,266963,4612
+1302,24-03-2003,Tommy Walter,West,Desk Chair,Furniture,5,28997,144985,141350,3635
+1941,19-05-2001,,West,Monitor,Electronics,5,5048,25240,23266,1974
+1729,02-02-2015,Jessica Smith,South,Headphones,Electronics,5,19721,98605,95771,2834
+1740,28-07-2022,Brian Rodriguez,West,,Furniture,4,58952,235808,234190,1618
+1974,18-02-1990,Shirley Suarez,South,Headphones,Electronics,5,28249,141245,136107,5138
+1788,07-10-2018,Sherry Decker,North,Monitor,Electronics,2,50854,101708,97100,4608
+1518,13-11-1990,Anthony Humphrey,North,Headphones,Electronics,1,1479,1479,-7898,9377
+1412,05-04-2023,Jessica Holmes,West,Headphones,Electronics,3,45980,137940,130506,7434
+1046,01-08-2023,Tracy House,North,Cabinet,Furniture,4,57737,230948,222542,8406
+1927,07-12-2023,Connor West,West,Office Desk,Furniture,2,38893,77786,69566,8220
+1158,17-07-1984,Connor West,East,Cabinet,Furniture,3,49060,147180,140940,6240
+1761,17-05-2007,,South,Office Desk,Furniture,2,39196,78392,69046,9346
+1172,23-10-1992,Margaret Hawkins DDS,East,Cabinet,Furniture,2,2089,4178,-1383,5561
+1017,25-12-1986,Megan Young,East,Office Desk,Furniture,1,58900,58900,55919,2981
+1512,15-06-2007,Tommy Walter,West,Smartphone,Electronics,5,3331,16655,12919,3736
+1049,13-01-1996,Holly Wood,South,Cabinet,Furniture,3,11837,35511,27743,7768
+1992,12-05-2024,Daniel Wagner,East,Monitor,Electronics,3,53772,161316,151891,9425
+1858,07-03-2004,James Ferrell,South,Monitor,Electronics,5,44684,223420,222469,951
+1516,16-11-2000,Joshua Blair,West,Laptop,Electronics,3,3220,9660,4190,5470
+1912,21-12-1971,Jeffrey Chavez,North,Smartphone,Electronics,5,9415,47075,41987,5088
+1481,04-06-1986,Jamie Arnold,West,Smartphone,Electronics,2,54211,108422,101914,6508
+1284,01-05-1971,Gabrielle Davis,North,Cabinet,Furniture,3,14867,44601,40479,4122
+1735,29-12-1975,Justin Baker,South,Bookshelf,Furniture,3,59627,178881,175114,3767
+1670,20-11-1999,Megan Young,West,Laptop,Electronics,5,5347,26735,21309,5426
+1226,10-07-2010,Tracy House,South,Smartphone,Electronics,3,44637,133911,125811,8100
+1027,10-02-1986,Christopher Bass,West,,Furniture,5,11491,57455,50994,6461
+1799,05-11-1979,Paul Jones,West,Laptop,Electronics,5,1609,8045,6110,1935
+1438,18-05-1988,Sherry Decker,East,Monitor,Electronics,5,15772,78860,75081,3779
+1970,14-12-1995,Dylan Miller,North,Headphones,Electronics,5,8113,40565,39027,1538
+1365,15-05-1980,Brittany Farmer,West,Headphones,Electronics,4,2308,9232,3611,5621
+1230,10-09-2011,Brittany Farmer,North,Office Desk,Furniture,2,48767,97534,88562,8972
+1038,07-01-1998,John Daniel,North,Smartphone,Electronics,2,21884,43768,38791,4977
+1986,04-05-1973,Richard Aguirre,East,Monitor,Electronics,2,19094,38188,37184,1004
+1375,09-06-1987,,West,Laptop,Electronics,1,53322,53322,44573,8749
+1470,01-08-1987,Michael Evans,West,Bookshelf,Furniture,2,15591,31182,28776,2406
+1988,16-09-2020,Sarah Moore,West,Office Desk,Furniture,4,50012,200048,192602,7446
+1868,24-10-1979,Rebecca Henderson,South,Headphones,Electronics,2,54750,109500,100876,8624
+1909,28-04-1981,Kelly Donovan,North,Monitor,Electronics,3,27745,83235,78802,4433
+1742,07-01-2005,,East,Smartphone,Electronics,5,27080,135400,133496,1904
+1195,21-05-2017,Christopher Bass,North,Smartphone,Electronics,5,36472,182360,180439,1921
+1935,27-06-2016,Sherry Decker,West,Monitor,Electronics,1,18157,18157,17304,853
+1882,11-05-1992,Daniel Wagner,West,Desk Chair,Furniture,1,46311,46311,45307,1004
+1504,29-07-2009,Brent Jordan,North,Office Desk,Furniture,3,57642,172926,167902,5024
+1990,23-06-1989,Shirley Suarez,East,Desk Chair,Furniture,3,20546,61638,57005,4633
+1848,20-03-2025,Lauren Daniels,North,Laptop,Electronics,5,27018,135090,128167,6923
+1580,07-04-2009,Derek Zuniga,East,Bookshelf,Furniture,4,20322,81288,78017,3271
+1989,21-10-2003,Victoria Garcia,,Cabinet,Furniture,2,22660,45320,41946,3374
+1163,31-01-2020,Jeffrey Chavez,East,Office Desk,Furniture,2,57452,114904,113773,1131
+1718,15-10-1997,Angie Henderson,South,Desk Chair,Furniture,3,5675,17025,9270,7755
+1153,06-12-1991,Jessica Holmes,North,Bookshelf,Furniture,5,45846,229230,223852,5378
+1697,16-01-2022,Anthony Rodriguez,West,Cabinet,Furniture,5,4715,23575,22430,1145
+1716,26-12-2001,Anthony Rodriguez,South,Office Desk,Furniture,3,9894,29682,25695,3987
+1929,26-07-1981,Noah Rhodes,South,Monitor,Electronics,1,8443,8443,3769,4674
+1112,08-05-1999,Aaron Wise,East,Bookshelf,Furniture,5,16597,82985,75805,7180
+1227,05-08-1991,Mike Allen,West,Cabinet,Furniture,4,23805,95220,90158,5062
+1704,03-12-1981,Angela Lopez,,Desk Chair,Furniture,4,59677,238708,237184,1524
+1104,23-08-2006,Angelica Tucker,North,Cabinet,Furniture,4,18715,74860,70133,4727
+1422,22-03-1993,Stephen Mckee,South,Monitor,Electronics,5,19053,95265,92957,2308
+1420,06-06-2004,Connor West,West,Office Desk,Furniture,5,43334,216670,210393,6277
+1849,11-12-1995,Elizabeth Fowler,North,Office Desk,Furniture,4,59294,237176,234139,3037
+1587,20-04-2008,Philip Cannon,North,Smartphone,Electronics,5,40364,201820,200811,1009
+1797,31-01-2001,Jamie Arnold,North,Laptop,Electronics,4,40996,163984,154469,9515
+1673,12-11-2016,,South,Bookshelf,Furniture,1,22780,22780,14385,8395
+1120,24-12-2018,Steve Sanchez,East,Desk Chair,Furniture,2,24469,48938,46979,1959
+1054,28-04-2001,Noah Rhodes,South,Desk Chair,Furniture,3,33590,100770,95573,5197
+1152,21-07-2014,Anthony Rodriguez,East,Bookshelf,Furniture,3,3949,11847,2555,9292
+1404,27-07-2022,Matthew Foster,West,Cabinet,Furniture,2,47722,95444,89688,5756
+1964,24-07-1990,Ethan Adams,East,Bookshelf,Furniture,2,6081,12162,5050,7112
+1208,07-12-1998,Aimee Montoya,South,Monitor,Electronics,2,2127,4254,-2582,6836
+1659,29-01-1988,Paula Moreno,West,Smartphone,Electronics,4,58148,232592,231002,1590
+1884,25-04-2006,Nathan Maldonado,North,Smartphone,Electronics,2,18295,36590,33568,3022
+1779,06-10-1997,Christina Walters,North,Laptop,Electronics,1,23196,23196,17737,5459
+1009,05-11-1972,Jeffrey Chavez,South,Monitor,Electronics,2,54833,109666,103369,6297
+1825,26-08-2006,Zachary Hicks,East,Monitor,Electronics,4,25252,101008,95005,6003
+1037,30-03-2023,Connor West,West,Office Desk,Furniture,1,53261,53261,48404,4857
+1453,04-09-2000,Shannon Jones,North,Monitor,Electronics,5,26701,133505,127230,6275
+1652,18-06-1983,Holly Wood,East,Laptop,Electronics,2,56526,113052,105986,7066
+1254,23-07-2018,,North,Cabinet,Furniture,4,26830,107320,104901,2419
+1304,28-07-1988,Gabrielle Davis,East,Cabinet,Furniture,5,17226,86130,83533,2597
+1763,08-08-1989,William Baker,North,Monitor,Electronics,2,26176,52352,46470,5882
+1572,30-06-1973,Eric Carney,West,Bookshelf,Furniture,3,54124,162372,160055,2317
+1624,30-10-1981,Joshua Blair,,Bookshelf,Furniture,5,56296,281480,276753,4727
+1859,01-03-2010,Carol Tucker,North,Smartphone,Electronics,4,45434,181736,173011,8725
+1759,08-11-1983,,South,Smartphone,Electronics,4,50162,200648,193781,6867
+1263,06-04-1980,John Daniel,West,Laptop,Electronics,5,10986,54930,45311,9619
+1611,06-02-1974,Gabrielle Davis,East,Office Desk,Furniture,5,36519,182595,179596,2999
+1298,02-03-2007,Elizabeth Fowler,North,Laptop,Electronics,1,58579,58579,56933,1646
+1415,03-04-2006,Tracy House,East,Headphones,Electronics,3,20800,62400,58254,4146
+1151,14-04-2011,Mike Allen,North,Bookshelf,Furniture,1,35726,35726,33954,1772
+1862,18-12-1999,Shannon Jones,West,Monitor,Electronics,4,3038,12152,9092,3060
+1641,24-11-2000,William Baker,South,Headphones,Electronics,3,23083,69249,61834,7415
+1907,03-11-1976,Anthony Humphrey,West,Cabinet,Furniture,1,46637,46637,45340,1297
+1551,07-05-2006,Kelly Donovan,West,Bookshelf,Furniture,3,32284,96852,87568,9284
+1808,31-07-2022,Whitney Peters,South,Bookshelf,Furniture,1,18107,18107,16237,1870
+1489,26-05-2002,Jessica Holmes,North,Bookshelf,Furniture,5,51933,259665,251535,8130
+1711,31-10-2009,Joshua Blair,East,Laptop,Electronics,4,24967,99868,95402,4466
+1148,03-04-1999,Mark Perez,East,Monitor,Electronics,5,54769,273845,270116,3729
+1147,21-04-1984,Matthew Mcmillan,East,Monitor,Electronics,4,31396,125584,115634,9950
+1737,06-03-1987,Jordan Henderson,East,Headphones,Electronics,3,33576,100728,98331,2397
+1950,29-07-1989,Connor West,South,Office Desk,Furniture,5,59082,295410,294448,962
+1756,30-01-2000,Tommy Walter,South,Monitor,Electronics,4,30596,122384,114689,7695
+1660,06-09-1979,Aimee Montoya,South,Monitor,Electronics,4,14008,56032,47024,9008
+1349,21-12-2020,Stephanie Ross,East,Cabinet,Furniture,4,56061,224244,219925,4319
+1464,13-02-1992,Cassandra Gaines,East,Monitor,Electronics,3,19492,58476,53251,5225
+1326,18-09-1975,Noah Rhodes,South,Cabinet,Furniture,5,44932,224660,215960,8700
+1187,18-04-2022,Carla Gray,North,Bookshelf,Furniture,3,1188,3564,-1164,4728
+1124,20-05-2015,Michael Lewis,West,Monitor,Electronics,5,45383,226915,218844,8071
+1871,03-07-1980,Shannon Jones,North,Desk Chair,Furniture,5,46285,231425,222100,9325
+1609,11-09-2008,Lisa Barnes,North,Smartphone,Electronics,2,29567,59134,57398,1736
+1144,11-01-1970,Lauren Daniels,East,Headphones,Electronics,2,29909,59818,55075,4743
+1979,07-12-1996,Brittney Phillips,West,Desk Chair,Furniture,4,4619,18476,15431,3045
+1198,13-03-1997,Connie Lawrence,East,Laptop,Electronics,3,27910,83730,79686,4044
+1610,05-04-2012,Angela Lopez,West,Smartphone,Electronics,5,20402,102010,97490,4520
+1280,03-07-1996,Carla Gray,West,Laptop,Electronics,4,3135,12540,5504,7036
+1294,07-07-1998,Stephanie Ross,West,Monitor,Electronics,4,25207,100828,97606,3222
+1401,12-07-1986,Anna Henderson,South,Smartphone,Electronics,3,41826,125478,122839,2639
+1123,18-01-1991,Connor West,East,Bookshelf,Furniture,2,33977,67954,62289,5665
+1184,30-08-1986,Brent Jordan,North,Cabinet,Furniture,1,55455,55455,47673,7782
+1203,18-05-1970,Deborah Figueroa,South,Office Desk,Furniture,2,26862,53724,52329,1395
+1439,30-11-2011,Gina Moore,West,Headphones,Electronics,5,55873,279365,277238,2127
+1247,22-06-2005,Patty Perez,South,Cabinet,Furniture,4,28886,115544,112466,3078
+1416,25-02-1999,Tracy House,South,Cabinet,Furniture,3,1316,3948,2570,1378
+1793,11-04-1998,Jordan Henderson,South,Laptop,Electronics,1,3958,3958,1788,2170
+1782,21-09-1977,Timothy Duncan,East,Monitor,Electronics,3,44985,134955,130754,4201
+1924,15-01-1998,Dylan Miller,West,Cabinet,Furniture,1,22914,22914,18459,4455
+1785,28-01-2014,Aaron Wise,North,Office Desk,Furniture,3,58127,174381,167486,6895
+1905,15-02-2013,Jessica Callahan,West,Headphones,Electronics,1,4680,4680,1130,3550
+1130,23-09-2007,Donald Wright,East,Office Desk,Furniture,2,1346,2692,-1534,4226
+1638,09-02-2018,Jamie Arnold,North,Office Desk,Furniture,5,21401,107005,105076,1929
+1403,11-06-2017,Monica Herrera,South,Office Desk,Furniture,1,43134,43134,35489,7645
+1801,21-12-1982,Sherri Baker,East,Laptop,Electronics,1,19765,19765,16392,3373
+1787,01-12-2003,Monica Herrera,West,Monitor,Electronics,4,1079,4316,-5259,9575
+1736,28-05-1991,Timothy Duncan,North,Monitor,Electronics,5,38044,190220,188357,1863
+1931,17-05-1975,Whitney Peters,North,Laptop,Electronics,2,48148,96296,94256,2040
+1220,28-01-1979,Angelica Tucker,East,Bookshelf,Furniture,1,12566,12566,9946,2620
+1642,05-11-1974,Aaron Wise,North,Bookshelf,Furniture,4,4206,16824,9679,7145
+1933,13-01-1996,Christopher Bass,East,Smartphone,Electronics,2,16419,32838,24568,8270
+1853,16-05-2014,Shirley Suarez,South,Smartphone,Electronics,4,6268,25072,16370,8702
+1824,21-05-2000,Angelica Tucker,North,Cabinet,Furniture,5,20299,101495,98645,2850
+1938,07-09-2009,John Daniel,West,Laptop,Electronics,3,3567,10701,5163,5538
+1625,25-07-2007,Eric Carney,West,Headphones,Electronics,5,2020,10100,3069,7031
+1856,09-07-1972,Abigail Shaffer,North,Office Desk,Furniture,1,5637,5637,57,5580
+1951,11-02-2016,Justin Baker,South,Laptop,Electronics,1,52436,52436,49740,2696
+1387,10-05-1977,John Whitehead,East,Bookshelf,Furniture,1,31489,31489,28684,2805
+1993,29-08-1985,Crystal Robinson,South,Office Desk,Furniture,3,37210,111630,110828,802
+1510,15-12-1998,Lisa Archer,South,Cabinet,Furniture,1,7966,7966,3626,4340
+1268,27-01-2018,Patty Perez,West,Laptop,Electronics,1,12492,12492,6666,5826
+1837,02-04-1986,Mark Perez,East,Smartphone,Electronics,5,25214,126070,116939,9131
+1442,18-09-2022,Justin Baker,South,Desk Chair,Furniture,5,55049,275245,269747,5498
+1497,09-01-1990,Richard Aguirre,North,Monitor,Electronics,2,7750,15500,7701,7799
+1113,06-10-1974,Mike Allen,,Laptop,Electronics,4,48509,194036,188346,5690
+1692,30-07-1985,Carol Tucker,West,Monitor,Electronics,1,50346,50346,48151,2195
+1233,15-01-1999,Tracy House,West,Laptop,Electronics,2,15496,30992,21461,9531
+1887,27-08-2012,Matthew Mcmillan,South,Desk Chair,Furniture,3,57774,173322,165260,8062
+1608,13-10-1990,,West,Laptop,Electronics,5,8461,42305,32757,9548
+1672,23-11-2001,Gina Moore,North,Cabinet,Furniture,5,12804,64020,56151,7869
+1374,07-08-2017,James Ferrell,West,Desk Chair,Furniture,4,37011,148044,138235,9809
+1738,01-01-1992,Gabrielle Davis,West,Cabinet,Furniture,1,20314,20314,18082,2232
+1860,04-08-1992,Paula Moreno,North,Smartphone,Electronics,3,27478,82434,79782,2652
+1234,14-04-2007,Allison Hill,West,Bookshelf,Furniture,3,13552,40656,32596,8060
+1802,15-10-2010,Lisa Jackson,North,Cabinet,Furniture,3,53209,159627,155846,3781
+1677,11-07-1988,Zachary Ferrell,North,Cabinet,Furniture,4,21109,84436,77477,6959
+1318,06-05-2012,Lisa Barnes,South,,Electronics,4,57038,228152,223785,4367
+1649,19-02-2010,Christopher Bass,East,Bookshelf,Furniture,4,14807,59228,51214,8014
+1411,06-07-2008,Gerald Hensley,South,Cabinet,Furniture,2,59319,118638,114673,3965
+1916,26-10-1973,Monica Herrera,West,Monitor,Electronics,3,2266,6798,-2850,9648
+1710,08-05-1982,Angela Lopez,West,Office Desk,Furniture,4,41159,164636,163030,1606
+1359,29-04-2021,John Daniel,East,Monitor,Electronics,2,44311,88622,80816,7806
+1259,04-10-1991,William Baker,North,Office Desk,Furniture,2,11835,23670,17463,6207
+1745,04-12-2006,Jeffrey Chavez,West,Laptop,Electronics,2,18482,36964,34620,2344
+1628,08-03-1970,Steve Sanchez,North,Cabinet,Furniture,2,11746,23492,19734,3758
+1633,23-12-2001,Sherri Baker,East,Laptop,Electronics,4,37073,148292,146037,2255
+1283,01-05-2017,Abigail Shaffer,South,Laptop,Electronics,1,9714,9714,2487,7227
+1377,07-02-1995,Jeffrey Chavez,West,Smartphone,Electronics,4,13054,52216,47720,4496
+1385,22-02-1981,Danny Morgan,North,Cabinet,Furniture,2,53472,106944,104362,2582
+1225,14-01-2008,Deborah Figueroa,West,Desk Chair,Furniture,4,48054,192216,186898,5318
+1974,18-02-1990,Shirley Suarez,South,Headphones,Electronics,5,28249,141245,136107,5138
+1966,06-03-1996,Nathan Maldonado,West,Desk Chair,Furniture,1,40583,40583,30652,9931
+1473,27-07-2010,Patty Perez,North,Cabinet,Furniture,3,14381,43143,37016,6127
+1348,27-04-1971,Jessica Callahan,North,Laptop,Electronics,3,5471,16413,7869,8544
+1506,16-03-2002,Margaret Hawkins DDS,West,Monitor,Electronics,2,9067,18134,16243,1891
+1640,02-11-2017,Allison Hill,East,Smartphone,Electronics,3,27912,83736,74064,9672
+1514,10-12-1993,,West,Desk Chair,Furniture,3,47010,141030,138210,2820
+1798,07-07-2007,Connie Lawrence,South,Smartphone,Electronics,4,9553,38212,37073,1139
+1947,22-08-1970,Nathan Maldonado,East,Laptop,Electronics,3,28845,86535,78195,8340
+1923,23-02-2006,Matthew Mcmillan,South,Monitor,Electronics,3,11434,34302,27438,6864
+1620,11-12-2014,Carla Gray,North,Cabinet,Furniture,1,10722,10722,770,9952
+1873,13-12-2001,Amber Kidd,East,Office Desk,Furniture,5,15323,76615,75706,909
+1821,28-11-2014,Jessica Callahan,East,Cabinet,Furniture,2,29368,58736,50913,7823
+1646,12-08-2023,Zachary Ferrell,West,Office Desk,Furniture,2,58029,116058,113807,2251
+1864,16-10-2005,Derek Zuniga,North,Desk Chair,Furniture,2,51596,103192,99641,3551
+1557,18-11-1989,William Baker,,Desk Chair,Furniture,2,46605,93210,84493,8717
+1978,17-10-2014,Ethan Adams,East,Monitor,Electronics,1,7068,7068,413,6655
+1578,19-06-2003,Nathan Maldonado,North,Smartphone,Electronics,1,48241,48241,41009,7232
+1796,02-08-1986,Noah Rhodes,South,Monitor,Electronics,5,46386,231930,224896,7034
+1086,11-07-1993,James Brown,North,Office Desk,Furniture,5,45664,228320,222134,6186
+1243,24-05-2013,Richard Aguirre,South,Cabinet,Furniture,2,39493,78986,72695,6291
+1699,04-05-1988,Brent Jordan,West,Laptop,Electronics,4,44241,176964,167049,9915
+1160,15-03-2002,Sherry Decker,East,Laptop,Electronics,1,11929,11929,4688,7241
+1525,19-02-1978,Cristian Santos,North,Monitor,Electronics,1,39368,39368,36847,2521
+1036,09-08-1992,Christopher Bass,East,Desk Chair,Furniture,4,44851,179404,174941,4463
+1541,04-04-1989,Justin Baker,West,Laptop,Electronics,2,48881,97762,96595,1167
+1171,21-02-2012,Christopher Bass,East,Monitor,Electronics,3,20990,62970,55641,7329
+1655,22-01-2007,Paula Moreno,South,,Electronics,2,28106,56212,48846,7366
+1908,11-03-2000,Allison Hill,North,Office Desk,Furniture,1,1269,1269,-2320,3589
+1875,14-01-1988,Brian Rodriguez,West,Desk Chair,Furniture,1,37269,37269,29055,8214
+1865,04-02-2001,Carol Tucker,North,Laptop,Electronics,4,46337,185348,183591,1757
+1963,01-02-2001,Ryan Munoz,West,Desk Chair,Furniture,1,32256,32256,25066,7190
+1734,13-12-2000,Michele Williams,West,Cabinet,Furniture,5,45825,229125,222754,6371
+1096,08-12-1982,Gabrielle Davis,West,Laptop,Electronics,3,6729,20187,10384,9803
+1564,01-11-1970,Jeffrey Chavez,East,Laptop,Electronics,5,8934,44670,36293,8377
+1241,27-02-2021,Shane Henderson,South,Bookshelf,Furniture,4,34865,139460,136323,3137
+1743,29-01-1970,Connie Lawrence,North,Bookshelf,Furniture,3,52779,158337,156121,2216
+1575,06-10-1977,Anthony Humphrey,North,Bookshelf,Furniture,1,48864,48864,48032,832
+1691,19-03-1976,Mark Perez,East,Monitor,Electronics,2,2343,4686,3994,692
+1461,22-11-1992,Judy Baker,South,Cabinet,Furniture,4,57661,230644,228301,2343
+1554,05-02-1973,Gerald Hensley,East,Monitor,Electronics,4,58831,235324,227629,7695
+1896,13-12-2012,Justin Baker,South,Desk Chair,Furniture,5,50028,250140,242147,7993
+1207,21-12-2022,Danny Morgan,North,Monitor,Electronics,2,16869,33738,32782,956
+1393,17-07-1995,Tricia Valencia,East,Smartphone,Electronics,1,56487,56487,51696,4791
+1795,19-02-2002,Kelly Donovan,West,Office Desk,Furniture,5,46090,230450,227165,3285
+1398,17-04-2010,Zachary Hicks,North,Laptop,Electronics,3,39118,117354,115538,1816
+1767,07-04-1978,Anthony Rodriguez,South,Desk Chair,Furniture,5,10181,50905,41066,9839
+1866,17-01-1971,Sherry Decker,East,Office Desk,Furniture,5,41567,207835,202851,4984
+1218,05-04-1978,Zachary Ferrell,East,Laptop,Electronics,1,56595,56595,53488,3107
+1005,08-08-2007,,South,Cabinet,Furniture,4,6507,26028,16745,9283
+1769,15-11-2012,Daniel Wagner,North,,Electronics,4,25419,101676,93111,8565
+1643,11-10-2016,Richard Aguirre,East,Office Desk,Furniture,4,26761,107044,102358,4686
+1915,06-03-2024,Megan Young,West,Smartphone,Electronics,4,50566,202264,195594,6670
+1613,13-05-2020,Paul Jones,West,Desk Chair,Furniture,4,49203,196812,190535,6277
+1739,21-11-1977,Aimee Montoya,South,Monitor,Electronics,4,19293,77172,73703,3469
+1547,19-03-1982,Brian Ramirez,North,Smartphone,Electronics,4,42539,170156,166209,3947
+1726,16-03-2017,Angelica Tucker,West,Monitor,Electronics,2,30793,61586,57052,4534
+1684,17-09-1972,Gina Moore,East,Desk Chair,Furniture,5,17380,86900,83434,3466
+1099,26-03-2018,James Brown,East,Bookshelf,Furniture,4,16828,67312,59835,7477
+1805,16-04-1979,Philip Cannon,South,Cabinet,Furniture,5,24177,120885,114185,6700
+1728,12-08-1989,Anna Henderson,East,Laptop,Electronics,3,47557,142671,135903,6768
+1574,06-07-2002,Whitney Peters,South,Desk Chair,Furniture,2,27795,55590,53788,1802
+1407,10-11-2010,Cristian Santos,West,Bookshelf,Furniture,4,26108,104432,96053,8379
+1503,08-03-2015,Rebecca Henderson,East,Monitor,Electronics,2,29451,58902,49078,9824
+1048,10-05-1977,Timothy Duncan,North,Laptop,Electronics,5,36753,183765,176321,7444
+1033,09-09-1971,Noah Rhodes,North,Office Desk,Furniture,1,7565,7565,1991,5574
+1780,05-05-1976,Brittney Phillips,West,Smartphone,Electronics,3,31551,94653,87339,7314
+1840,23-11-1985,Amy Silva,West,Desk Chair,Furniture,3,48023,144069,135608,8461
+1201,24-08-2014,Tommy Walter,North,Headphones,Electronics,2,16061,32122,30559,1563
+1135,20-10-1995,Cristian Santos,North,Monitor,Electronics,4,19586,78344,75253,3091
+1028,22-01-1981,Brittney Phillips,West,Smartphone,Electronics,5,41572,207860,198024,9836
+1948,03-10-2024,Holly Wood,East,Monitor,Electronics,2,56712,113424,111457,1967
+1231,12-12-2018,Fred Smith,South,Office Desk,Furniture,2,22477,44954,40675,4279
+1490,15-12-2013,Lauren Daniels,South,Bookshelf,Furniture,4,48559,194236,185568,8668
+1773,20-04-2018,Philip Cannon,South,,Electronics,4,5569,22276,13880,8396
+1379,26-03-2011,Joshua Blair,West,Laptop,Electronics,4,23917,95668,92144,3524
+1289,27-05-1970,Shane Henderson,South,Cabinet,Furniture,1,8955,8955,3148,5807
+1419,10-09-1974,Noah Rhodes,East,Cabinet,Furniture,3,38925,116775,107872,8903
+1675,13-08-2017,Jessica Smith,East,Desk Chair,Furniture,2,28800,57600,49976,7624
+1392,04-02-2016,Michele Williams,West,Cabinet,Furniture,4,22306,89224,81717,7507
+1593,08-01-2022,James Ferrell,West,Office Desk,Furniture,5,26486,132430,126872,5558
+1499,09-07-1997,Philip Cannon,South,Monitor,Electronics,3,21206,63618,58601,5017
+1139,20-11-2011,Monica Herrera,,Smartphone,Electronics,2,43151,86302,78331,7971
+1063,11-02-1997,Shane Henderson,West,Laptop,Electronics,4,3745,14980,9904,5076
+1472,11-01-1989,Jeffrey Chavez,South,Smartphone,Electronics,5,18737,93685,89267,4418
+1648,14-07-2012,Derek Zuniga,West,Desk Chair,Furniture,2,34516,69032,66758,2274
+1129,13-02-1990,Sherri Baker,East,Headphones,Electronics,1,28287,28287,27663,624
+1997,26-11-1984,Gerald Hensley,East,Office Desk,Furniture,4,6205,24820,22378,2442
+1521,18-03-1978,Brittney Phillips,South,Laptop,Electronics,5,14412,72060,62795,9265
+1839,23-01-1996,Michele Williams,East,Monitor,Electronics,4,42648,170592,168681,1911
+1983,01-09-2016,Tommy Walter,South,Headphones,Electronics,2,55414,110828,107748,3080
+1065,16-12-1988,Deborah Figueroa,East,Monitor,Electronics,5,39140,195700,193695,2005
+1813,20-07-2004,Anthony Humphrey,West,Desk Chair,Furniture,3,49965,149895,141439,8456
+1015,18-04-1984,Paul Jones,,Office Desk,Furniture,4,41874,167496,159015,8481
+1157,23-12-2015,Brittany Farmer,North,Desk Chair,Furniture,3,18032,54096,49252,4844
+1041,08-01-2020,Deborah Figueroa,South,Smartphone,Electronics,1,59060,59060,54842,4218
+1493,01-07-2000,Judy Baker,North,Bookshelf,Furniture,4,56661,226644,225458,1186
+1380,29-04-2011,Shannon Jones,South,Headphones,Electronics,3,58504,175512,169926,5586
+1188,16-12-1974,Stephen Mckee,South,Bookshelf,Furniture,4,41786,167144,166371,773
+1764,25-10-1999,John Whitehead,South,Laptop,Electronics,4,33457,133828,128010,5818
+1217,16-12-1986,Stephen Mckee,South,Bookshelf,Furniture,4,21136,84544,78598,5946
+1792,10-08-1988,Gina Moore,West,Office Desk,Furniture,4,30677,122708,112895,9813
+1053,01-08-1983,Daniel Wagner,East,Laptop,Electronics,1,23298,23298,20495,2803
+1879,18-01-1997,Justin Baker,East,Monitor,Electronics,4,14443,57772,51385,6387
+1338,29-03-1992,Eric Carney,North,Headphones,Electronics,4,35538,142152,139308,2844
+1749,07-10-1982,William Baker,East,Laptop,Electronics,3,44579,133737,124456,9281
+1720,06-11-1991,Holly Wood,South,Bookshelf,Furniture,1,8690,8690,484,8206
+1725,05-01-1998,Holly Wood,East,Headphones,Electronics,2,53297,106594,97498,9096
+1296,13-11-2020,Shannon Jones,South,Headphones,Electronics,2,28241,56482,48341,8141
+1702,06-12-2021,Philip Cannon,West,Laptop,Electronics,2,40466,80932,71374,9558
+1252,08-12-1999,Elizabeth Fowler,South,Desk Chair,Furniture,2,30856,61712,59606,2106
+1727,19-09-2003,,East,Laptop,Electronics,4,16613,66452,62020,4432
+1462,15-12-1971,Megan Young,East,Desk Chair,Furniture,5,16454,82270,79342,2928
+1456,16-08-2001,Connor West,South,Desk Chair,Furniture,5,34429,172145,171253,892
+1281,21-05-2022,Eric Carney,West,Smartphone,Electronics,2,9547,19094,9111,9983
+1816,01-04-1989,Anthony Rodriguez,North,Cabinet,Furniture,1,21427,21427,18685,2742
+1863,14-10-1976,Anna Henderson,North,,Electronics,4,22846,91384,90874,510
+1270,16-05-1974,Christopher Bass,North,Headphones,Electronics,2,39521,79042,69709,9333
+1202,16-10-2016,Whitney Peters,West,Cabinet,Furniture,4,1064,4256,-2435,6691
+1162,03-03-2024,,East,Smartphone,Electronics,5,52925,264625,255253,9372
+1556,28-08-2007,Cristian Santos,East,Headphones,Electronics,1,27964,27964,22598,5366
+1730,02-04-1997,Ryan Munoz,East,Desk Chair,Furniture,3,44386,133158,126340,6818
+1402,07-12-1976,Crystal Robinson,West,Smartphone,Electronics,1,15943,15943,11585,4358
+1703,19-06-2021,Whitney Peters,East,Monitor,Electronics,1,58786,58786,52278,6508
+1477,10-09-1970,Gabrielle Davis,West,Bookshelf,Furniture,2,3661,7322,-678,8000
+1822,28-04-2003,Judy Baker,East,Headphones,Electronics,1,9167,9167,7987,1180
+1772,14-04-1986,Dylan Miller,North,Desk Chair,Furniture,5,26828,134140,124681,9459
+1106,16-12-2018,,North,Desk Chair,Furniture,3,49558,148674,144913,3761
+1566,08-05-1989,Donald Wright,East,Laptop,Electronics,1,45992,45992,43859,2133
+1390,25-03-1991,Stephen Mckee,West,Desk Chair,Furniture,5,25900,129500,127125,2375
+1002,14-06-1972,Deborah Figueroa,North,Cabinet,Furniture,5,9348,46740,44128,2612
+1991,16-10-2022,Amy Silva,East,Smartphone,Electronics,1,59422,59422,56986,2436
+1741,03-07-1997,Philip Cannon,South,Headphones,Electronics,5,4483,22415,13038,9377
+1562,28-05-2003,Monica Herrera,South,Bookshelf,Furniture,3,17239,51717,45575,6142
+1932,24-06-2011,,North,Cabinet,Furniture,3,49884,149652,144486,5166
+1081,25-01-1988,Mike Allen,South,Cabinet,Furniture,2,15784,31568,31054,514
+1206,03-04-1977,Shirley Suarez,South,Monitor,Electronics,3,17273,51819,46697,5122
+1035,15-02-2020,Margaret Hawkins DDS,East,Headphones,Electronics,1,14358,14358,9200,5158
+1776,27-06-2007,Sherry Decker,East,Headphones,Electronics,5,47621,238105,228261,9844
+1509,24-05-1993,Allison Hill,West,Cabinet,Furniture,2,48221,96442,91747,4695
+1428,25-08-1994,Abigail Shaffer,South,,Furniture,2,15846,31692,22302,9390
+1455,26-01-2021,Fred Smith,South,Headphones,Electronics,2,26101,52202,49917,2285
+1367,04-08-1978,Judy Baker,East,Monitor,Electronics,5,36276,181380,176227,5153
+1092,20-10-2004,John Pierce,,Headphones,Electronics,3,49212,147636,140771,6865
+1340,20-10-2021,Stephen Mckee,South,Laptop,Electronics,4,27422,109688,103519,6169
+1898,22-07-1989,Lisa Barnes,South,Smartphone,Electronics,1,32672,32672,24943,7729
+1565,24-01-2009,Tracy House,West,Monitor,Electronics,1,54071,54071,48078,5993
+1346,29-07-1975,Michael Lewis,North,Smartphone,Electronics,2,58864,117728,115603,2125
+1777,06-12-1970,John Whitehead,West,Laptop,Electronics,4,42021,168084,158768,9316
+1242,29-10-1986,Tracy House,South,Smartphone,Electronics,1,54300,54300,51645,2655
+1014,08-05-1994,Michele Williams,West,Headphones,Electronics,5,11398,56990,52168,4822
+1316,22-10-2001,Aaron Wise,West,Office Desk,Furniture,4,46700,186800,184688,2112
+1601,24-07-2005,Donald Wright,North,Office Desk,Furniture,1,34128,34128,30319,3809
+1388,19-05-2009,Anthony Rodriguez,East,Office Desk,Furniture,2,45060,90120,83962,6158
+1274,04-12-2006,Lauren Daniels,East,Bookshelf,Furniture,2,16066,32132,31104,1028
+1167,24-04-1989,Cristian Santos,East,Monitor,Electronics,3,15639,46917,42809,4108
+1841,11-10-2022,Mike Allen,North,Desk Chair,Furniture,3,55799,167397,162646,4751
+1637,09-08-1989,Ethan Adams,West,Monitor,Electronics,1,23726,23726,19571,4155
+1647,05-11-2023,Christina Walters,North,Office Desk,Furniture,5,25024,125120,124105,1015
+1819,10-12-2009,Brittney Phillips,South,Laptop,Electronics,4,45150,180600,178775,1825
+1485,12-10-2007,Megan Young,East,Desk Chair,Furniture,2,23102,46204,39660,6544
+1522,31-01-2019,Jamie Arnold,North,,Furniture,5,3683,18415,11835,6580
+1505,11-02-1995,Jessica Holmes,North,Office Desk,Furniture,1,23187,23187,17785,5402
+1832,02-09-1995,Gabrielle Davis,East,Cabinet,Furniture,3,17263,51789,43251,8538
+1244,14-11-1988,Amber Kidd,North,Bookshelf,Furniture,1,56047,56047,49726,6321
+1567,10-12-2001,Brittany Farmer,East,Laptop,Electronics,1,11279,11279,5118,6161
+1876,14-01-1993,Donald Wright,South,Monitor,Electronics,3,10653,31959,31284,675
+1563,24-12-1976,Shane Henderson,East,Desk Chair,Furniture,1,14139,14139,11156,2983
+1973,12-02-2009,Sherri Baker,North,Desk Chair,Furniture,3,37060,111180,103809,7371
+1687,08-12-1991,Allison Hill,South,Headphones,Electronics,2,53900,107800,105989,1811
+1958,11-05-1990,Daniel Baker,West,Smartphone,Electronics,3,49074,147222,139578,7644
+1190,15-03-1998,Michael Evans,East,Office Desk,Furniture,1,46365,46365,44370,1995
+1783,27-05-2001,Sherry Decker,North,Laptop,Electronics,3,20360,61080,57127,3953
+1700,19-03-2009,Noah Rhodes,West,Smartphone,Electronics,4,40057,160228,153528,6700
+1476,28-10-2007,Jessica Holmes,East,Laptop,Electronics,1,10127,10127,359,9768
+1682,23-06-1975,Carla Gray,North,Laptop,Electronics,2,27185,54370,49274,5096
+1511,05-10-2020,Ryan Munoz,North,Office Desk,Furniture,2,17546,35092,32318,2774
+1059,03-03-1985,Ryan Munoz,East,Smartphone,Electronics,1,36822,36822,32718,4104
+1475,19-10-1988,Lisa Archer,East,Monitor,Electronics,3,7291,21873,13119,8754
+1561,24-03-2021,Jessica Smith,East,Desk Chair,Furniture,2,6342,12684,8890,3794
+1857,04-08-1978,Tommy Walter,East,Bookshelf,Furniture,1,44660,44660,40081,4579
+1748,09-09-1973,Daniel Baker,West,Laptop,Electronics,1,5334,5334,-3954,9288
+1253,10-04-1975,Brian Rodriguez,East,,Furniture,3,47452,142356,132362,9994
+1022,06-02-2008,Lisa Jackson,West,Headphones,Electronics,1,9397,9397,4313,5084
+1314,13-04-2019,Tricia Valencia,West,Desk Chair,Furniture,5,20949,104745,95254,9491
+1460,16-10-1995,,South,Laptop,Electronics,5,4198,20990,18643,2347
+1161,06-01-2024,Dylan Miller,West,Bookshelf,Furniture,2,40717,81434,80904,530
+1277,28-03-1974,Christopher Bass,South,,Furniture,3,43173,129519,124187,5332
+1956,08-07-1993,Jamie Arnold,East,Smartphone,Electronics,3,20220,60660,55538,5122
+1192,05-03-2009,Angela Lopez,East,Cabinet,Furniture,5,59504,297520,294157,3363
+1386,02-03-1991,Derek Zuniga,East,Cabinet,Furniture,2,23189,46378,41025,5353
+1806,02-10-1974,Cassandra Gaines,,Cabinet,Furniture,1,37507,37507,35476,2031
+1414,17-08-1993,Carla Gray,South,Desk Chair,Furniture,5,37646,188230,183095,5135
+1492,27-05-2003,Derek Zuniga,East,Laptop,Electronics,3,55241,165723,159126,6597
+1344,09-09-1998,Tricia Valencia,West,Monitor,Electronics,5,5578,27890,22278,5612
+1770,08-06-2011,Aaron Wise,East,Laptop,Electronics,1,25295,25295,17624,7671
+1309,15-11-1992,Lisa Barnes,North,,Electronics,1,31512,31512,23958,7554
+1662,22-01-1974,Angelica Tucker,South,Office Desk,Furniture,5,32951,164755,159737,5018
+1131,30-08-1978,Tracy House,West,Headphones,Electronics,1,9394,9394,6363,3031
+1664,09-12-2023,Judy Baker,South,Office Desk,Furniture,5,42716,213580,205464,8116
+1872,03-02-1975,Elizabeth Fowler,North,Bookshelf,Furniture,1,22355,22355,21435,920
+1100,04-09-1999,Zachary Ferrell,West,Desk Chair,Furniture,1,44153,44153,41490,2663
+1373,24-08-2001,Amber Kidd,North,Desk Chair,Furniture,4,12327,49308,43258,6050
+1088,08-07-2023,Denise Jacobs,North,Monitor,Electronics,4,47047,188188,178878,9310
+1459,21-06-2015,Jessica Smith,North,Desk Chair,Furniture,1,56018,56018,48913,7105
+1331,14-05-1982,Angelica Tucker,West,Desk Chair,Furniture,4,24072,96288,88051,8237
+1215,02-06-1973,Aaron Wise,East,Monitor,Electronics,3,18036,54108,45258,8850
+1467,08-06-1984,Derek Zuniga,East,Cabinet,Furniture,2,57193,114386,112945,1441
+1122,05-07-2004,Derek Zuniga,North,Smartphone,Electronics,4,42642,170568,163540,7028
+1615,26-11-2021,Aaron Wise,East,Laptop,Electronics,3,57571,172713,163522,9191
+1021,01-02-2023,,East,Office Desk,Furniture,3,26583,79749,74604,5145
+1701,26-09-1972,Brian Ramirez,East,Desk Chair,Furniture,5,33139,165695,164030,1665
+1072,14-03-1997,Elizabeth Fowler,North,Laptop,Electronics,4,3929,15716,15026,690
+1107,28-06-2020,Victoria Garcia,East,Office Desk,Furniture,1,11105,11105,4462,6643
+1271,26-03-1998,,South,,Furniture,5,19927,99635,97988,1647
+1861,30-10-1976,Eric Carney,West,,Electronics,2,1642,3284,2147,1137
+1436,04-07-2005,John Pierce,East,Headphones,Electronics,4,13139,52556,46863,5693
+1103,18-11-2024,Deborah Figueroa,West,Smartphone,Electronics,2,20942,41884,32279,9605
